@@ -1,0 +1,635 @@
+6SUMMARY AND NEXT STEPS
+6.1Summary of Key Findings
+This scoping study report presents a baseline of the URT’s current preparedness to undertake comprehensive, EEZ-wide marine spatial planning. During the preparation of the report, the project team reviewed a broad range of sources and interviewed a number of representatives from key agencies and stakeholder groups.
+The overall picture that emerges is that the URT is relatively well-placed to commence MSP activities, due, in part, to the existing knowledge base relating to critical inshore resources and to the extensive community and scientific engagement that a number of well-established local institutions have undertaken. The implementation of MSP for the URT is considered both timely and necessary. 
+Moreover, many Mainland and Zanzibar government institutions have prior experience of spatial planning at different levels, both in terms of land-use planning and marine conservation planning. Notable examples include the preparation of general management plans (including zoning frameworks) for the various types of marine protected area established in each territory. These arrangements should form a strong basis from which to develop a more comprehensive, national-level, MSP framework for the URT.
+This notwithstanding, a number of key issues and potential barriers have been identified, as a result of this analysis, that may impact the success of any future MSP initiative. 
+6.1.1Overall ocean governance framework 
+Given the transboundary nature of MSP, and the fact that the EEZ is managed as a Union matter, there are strong arguments for any future MSP to be considered in an integrated manner, with equal representation from both Mainland Tanzania and Zanzibar in the process. The URT has clearly delineated its maritime space, in accordance with the provisions of UNCLOS. In this regard, more needs to be done to mainstream MSP and this will require a range of government institutions to work collaboratively together to implement the goals of MSP in the internal, territorial and EEZ waters.
+The existing sector-specific policy framework, outlined in this report, does provide clear guidance on the protection of marine ecosystems and the development of living and non-living marine resources. However, whilst the URT does have a broad policy base to support management of the marine environment, there is currently no Union-level Ocean’s Governance Policy that specifically addresses ocean affairs. 
+Both the Governments of the URT and the Revolutionary Government of Zanzibar have developed and implemented comprehensive and, in most cases, complementary legal frameworks for the key blue economy sectors that are addressed in this report. Furthermore, a number of existing legal instruments do provide the legal basis for the adoption of specific spatial management tools that could be used to support MSP activities in the future. 
+For MSP to be successful, there is a need for a robust, multi-sectoral coordination mechanism that reflects the interests of different stakeholders across Mainland Tanzania and Zanzibar. Such a mechanism should be formally constituted and have a clear mandate. Notwithstanding existence of the Deep Sea Fishing Authority, and its URT-wide mandate to manage and develop fisheries resources in the EEZ, there is a need to establish an integrated lead agency (such as an ocean commission) with overall responsibility for regional and global ocean affairs at the Union level. The management of ocean affairs is more clearly defined in Zanzibar since the establishment of the Ministry of Blue Economy and Fisheries whilst on the Mainland the Office of the Vice President is the designated authority on matters related to Regional Seas Programme under the UNEP Nairobi Convention. 
+The current governance arrangements between the national and local government entities is also a matter that should be explored since LGAs do have some responsibilities with respect to environmental services connected to the economic, social and environmental activities of the nearshore fisheries and aquaculture and other marine resource-related activities, which has the potential to significantly influence the quality of the marine environment. There therefore needs to be a practical agreement over roles and responsibilities, vis-à-vis MSP, between national government agencies and their LGA counterparts.
+6.1.2Drivers and goals
+The lack of an overarching policy framework for ocean affairs means that ocean planning decisions continue to be made without broad strategic direction for MSP. As such, some form of goal-setting will be necessary for the future development of a national MSP framework. One approach that has been well tested for MSP is the use of ‘scenario-based planning’, an effective tool to allow stakeholders to explore the full range of measures available, and the consequences of applying those measures.
+6.1.3Geographic boundaries and scope
+It is clear from the consultations that any future MSP initiative should extend from the coastline to the outer limits of the EEZ. Moreover, given the potential impact of land-based coastal developments on the marine environment, there is a strong case to include the littoral zone in MSP.  To this end, this analysis recommends the development of a systematic framework of planning areas, defined at different spatial resolutions,  to support planning and decision making across different parts of the URT’s maritime space.
+In this regard, there is also a need to clarify the jurisdictional limits for different maritime zones and the actors involved in their management. One question that should be addressed, for example, is whether a MSP initiative should be extended to include the resources of the extended continental shelf. Clarification is also needed with respect to the role of LGAs in any future MSP initiative, given their statutory responsibilities with respect to coastal marine resource management. 
+6.1.4Data collection and management
+A considerable body of marine spatial data already exists for the URT’s maritime waters, albeit focussed largely on the inshore/coastal waters. Nevertheless, it is considered a sufficient basis upon which to commence a broad-based MSP process, with a number of caveats:
+?There are clearly some gaps in data for specific sectors (e.g. inshore fishing and shipping) that will need to be filled in order to gain a better understanding of the risks and interaction associated with certain sectors;
+?Whilst some data does exist, much of it is not readily accessible, since data sharing between data holders does not appear to be well developed. In order to maximise the benefits of existing spatial data, mechanisms are needed that facilitate data sharing and the consolidation of data into a central, accessible data portal.
+?In addition to the existing government research institutions, the URT Government should make fuller use of the broad marine science capability that exists in the numerous NGOs operating in the URT.
+?Work is required to better understand the quality and extent of the existing data, with a view to improving the current core data sets, and procuring new data sets where critical gaps are identified.
+?Data gaps relating to offshore waters presents a challenge for decision making about offshore planning and management. Opportunities should be explored as to how these gaps might be filled.
+6.1.5Multi-objective planning process
+Both Mainland Tanzania and Zanzibar clearly have considerable experience in undertaking multi-use planning and zoning, in the context of the development of MPA/MCA management plans and local-level fishery co-management. However, these activities have largely focussed on conservation, fishing and aquaculture, with little focus on broader uses of the marine environment of offshore waters.
+Thus, whilst these existing mechanisms do provide a good basis for marine planning activities, there is a need to adopt a more systematic approach to marine planning that fully utilises and integrates the broad range of spatial management measures currently available. The focus needs to extend beyond the inshore coastal waters to include the entire EEZ. In this regard, this report recommends that the URT adopts a multi-level approach to MSP whereby broad scale planning is undertaken across the entire EEZ - taking account of key offshore maritime activities – whilst a more focussed level of planning is undertaken across the entire coastal zone. This reflects both the greater intensity of activity taking place in the coastal zone as well as the different levels of knowledge about the coastal versus offshore waters.
+6.2Next Steps
+The ultimate goal for any MSP initiative should be the development and adoption of a comprehensive Spatial Management Plan. Such a plan should be a statement of policy from the Government, that sets out the framework and direction for marine spatial management decisions. It will identify when, where, and how goals and objectives will be met and will be based on the agreed zoning framework, supported by a range of non-spatial management tools.
+To achieve this goal, the following section presents a draft Implementation Plan, which elaborates the steps needed to address the 23 recommendations highlighted in Chapter 5 of this report. A provisional budget for the draft Implementation Plan is also included. 
+6.3Draft MSP Implementation Plan
+6.3.1Structure and approach
+This scoping study report has presented a series of twenty three [23] recommendations, which, taken together, inform an initial set of actions (Implementation Plan). The implementation plan is built around the five thematic areas presented in Chapter 5 above, namely: 
+Governance Arrangements: the institutional, policy and regulatory arrangements necessary to support effective implementation of the spatial management framework;
+Drivers & Goals: the drivers and overarching goals that the roadmap is designed to address in terms of delivering the Government’s development goals;
+Geographic Boundaries & Scope: the spatial extent of the MSP framework and the activities that are to be included and managed within the resulting spatial management framework;
+Data Collection & Management: covers the data and data management requirements needed to support MSP activities and ongoing decision making; and
+Multi-Objective Planning Process: engaging with the broad range of stakeholders with an interest in the URT’s marine space to develop an overarching spatial management framework for the URT.
+Each of these five themes is allocated a "Specific Development Objective" (SDO). Each SDO has a series of two to three "Results Areas" that are fulfilled by specific activities corresponding to the 23 recommendations. The five SDOs and corresponding Result Areas are summarised in Table 18 below and are described in more detail below. The specific activities corresponding to each Result Area, and steps for their implementation, are summarised in a series of tables in the tables set out under section 6.3.2. 
+The various activities correspond to different types of output which have been categorised into a typology as follows: 
+
+
+
+	Capacity building activities
+	Data & knowledge
+	Tools to support MSP
+	Products to support MSP
+	Processes to support MSP
+
+In addition, each identified activity is given an indicative prioritisation and an indicative timeframe for implementation as follows:
+PRIORITY	TIMEFRAME
+HIGH	Must be prioritised in the initial project planning phase	SHORT-TERM	<2 year
+MEDIUM	Essential for overall MSP success and must be completed before the project ends 	MEDIUM-TERM	2-5 years
+LOW	Not essential for overall MSP success, but desirable to improve the overall governance of the URT’s marine space	LONG-TERM	>5 years
+
+NOTE: It is accepted that the prioritisations and timeframes outlined above are provisional only. They should be discussed and agreed with stakeholders during the Validation Process.
+
+Table 18: Overview of the implementation plan
+Roadmap Element	Specific Development Objectives (SDOs) and Results Areas
+1. Governance Arrangements	SDO 1: Establish robust institutional capacity and authority to develop and implement the MSP framework. 
+	Result Areas:
+	1.1Establish effective institutional arrangements to support MSP
+	1.2Establish robust implementation mechanisms to support MSP
+2. Drivers & Goals	SDO 2: Develop a clear vision and objectives for the MSP process that reflects the unique circumstances and interests of the URT. 
+	Results Areas:
+	2.1Understand the drivers for MSP
+	2.2Define and prioritise goals and objectives for MSP
+3. Geographic Boundaries & Scope	SDO 3: Clearly define the scope and extent of the MSP framework in the context of the rights and obligations of the various stakeholders.
+	Result Areas:
+	3.1Define geographic boundaries and planning areas
+	3.2Understand the jurisdictional limits that apply in different planning areas
+	3.3Establish what existing and future uses need to be addressed
+4. Data Collection & Management	SDO 4: Collect, collate and present knowledge and information about the marine environment of the URT, its condition, current & future uses and areas of significant environmental value.
+	Result Areas:
+	4.1Collate and map spatial data to create GIS layers for MSP 
+	4.2Establish robust data management and mapping systems
+5. Multiple-Objective Planning Process	SDO 5: Develop a spatial planning framework that reflects both the broad range of stakeholder interests and the goals and objectives for development of the URT’s marine space.
+	Results Areas:
+	5.1Implement a comprehensive programme for stakeholder engagement
+	5.2Strengthen existing spatial planning processes and tools
+	5.3Define a zoning framework for the URT
+	5.4Prepare a broad-scale spatial management plan
+
+
+6.3.2Summary of MSP implementation plan activities and tasks
+1. GOVERNANCE ARRANGEMENTS
+Specific Development Objective: Establish robust institutional capacity and authority to develop and implement the MSP framework
+Result Area 1.1: Establish effective institutional arrangements to support and coordinate MSP
+Context:
+?MSP must be led by a competent authority with a mandate for resolving complex conflicts.
+?To address this need, a broad MSP coordination mechanism is suggested, that leverages existing inter-governmental coordination mechanisms convened under the auspices of the Office of the Vice President.
+?Not only will this enable better progress to be made towards implementation but it will also serve as a capacity building mechanism to ensure the long-term sustainability of the MSP framework.	Desired Outcomes:
+?A formally constituted MSP Steering Committee with members drawn from both Mainland Tanzania and Zanzibar, under the joint coordination of VPO and MoBEF
+?More project flexibility in the implementation phase. 
+?Accelerated implementation of the project with enhanced technical support.
+?Capacity development of technical team members to support long-term sustainability of the MSP framework.
+Recommended Activities
+Activity  	Key elements or steps for implementation 	Priority/Timeframe	Potential partners	Comments, critical conditions, and linkages	Output Type
+1.1.1: Define and establish a VPO - MoBEF coordination and implementation mechanism with dedicated technical groups and well-defined roles and responsibilities.	?Identify and mandate, by mid-2023, a lead agency to establish and coordinate an inter-departmental MSP coordination group to function as a high-level advisory committee. 
+?Define a formal governance structure on MSP. 
+?Undertake MSP sensitisation and capacity building to understand the project objectives.
+?Identify key technical partners to support the various Technical Working Groups (TWG) identified within the structure.	High
+(Short Term)	TNC; UNEP (Nairobi Convention); UNDP; WWF	?The authority for MSP planning especially in the EEZ and adjacent waters (subject to future ABNJ agreement) should be a Union-level entity, with broad participation from across the URT and jointly coordinated by VPO and MoBEF.
+?The MSP Authority should establish some form of multi-agency coordination and advisory mechanism, in order to structure a participatory MSP governance framework reflective of current policy legal and institutional arrangements on both Mainland and Zanzibar.	
+
+1.1.2: Establish an effective technical-level mechanism to oversee MSP co-ordination in areas where Mainland Tanzania and Zanzibar have adjacent jurisdictions and common management interests.	?Undertake a review of current management arrangements. 
+?Undertake a review of relevant legal instruments.
+?Define planning areas that recognise the management interests for both Mainland and Zanzibar.
+?Undertake consultation with key stakeholders to understand the specific threats, challenges and conflicts in the identified areas.
+?Establish a specific working group to work collaboratively on issues of mutual interest in the defined planning areas.
+?Develop area-specific interventions to be included in the overall MSP framework.	High
+(Medium Term)	UNDP; TNC	?This should utilise existing institutional arrangements such as the VPO,  MoBEF (Zanzibar) and the MLF (Mainland) and align closely with all other sectors.
+?This coordination should recognise and build on the broad range of existing initiatives already being undertaken across the URT.	
+1.1.3: Undertake a Capacity needs Analysis across Mainland Tanzania and Zanzibar.	?Undertake a capacity needs assessment of the different stakeholders.
+?Prepare  a comprehensive programme of capacity building activities, on the basis of the CNA.
+?Deliver capacity building as an ongoing activity.	High 
+(Medium term)
+	TNC; UNDP; UNEP (Nairobi Convention); IMS; WIOMSA; UNESCO-IOC	?This should be undertaken at an early stage in the MSP development process and could form part of the initial project set up.	
+Result Area 1.2: Establish robust implementation mechanisms to support MSP
+Context:
+?When creating authority to plan for MSP it is critical to ensure the MSP outputs (e.g. zoning and spatial management plan) will achieve the overall development goals for the URT’s marine space and be implementable and enforceable.
+?There is, therefore, a need to ensure that any future MSP has a robust policy and legal framework to support implementation.
+?A variety of complementary mechanisms should also be explored as part of this process.	Desired Outcomes:
+?Identification of spatial and non-spatial management tools that can be given effect in the URT’s maritime waters.
+?A spatial management plan that clearly sets out the goals and objectives with respect to future management of the URT’s marine space.
+?A broad understanding of the limits of jurisdiction for the various organisations with marine management responsibility in throughout the URT’s marine space.
+Recommended Activities
+Activity  	Key elements or steps for implementation 	Priority/Timeframe	Potential partners	Comments, critical conditions, and linkages	Output Type
+1.2.1: Prepare an overarching National Ocean Governance Policy for the URT to guide the development and implementation of the blue economy and MSP especially in the EEZ and adjacent area.	?Agree on priorities and trade-offs for the development of the URT’s marine space with wide stakeholder consultation.
+?Prepare a draft policy framework addressing, as a minimum, the following:
+–Overarching Vison and Goals for Ocean Governance Policy including MSP.
+–Principles and approaches to be adopted.
+–Institutional arrangements for Ocean Affairs - including the National/Regional interaction.
+–Geographic scope and levels of detail. 
+–Key sectors to be included for the implementation of MSP as a key implementer.
+–Standardisation of approaches for MSP across different Planning Areas.
+?Undertake consultation on draft policy framework.
+?Revise draft framework based on stakeholder feedback.
+?Present final draft to Steering Committee for approval/adoption.	High
+(Short Term)	UNDP; UNEP (Nairobi Convention); Commonwealth Secretariat; WWF; TNC; UNDP; UNCLOS Secretariat; UNEP Nairobi Convention Secretariat	?Links to Activity 2.2.1 which will assist in the definition of a future preferred development scenario and resulting Goals and Objectives for Maritime Affairs.	
+
+1.2.2: Establish the legal basis for MSP in Mainland Tanzania and Zanzibar.	?Review, and update as appropriate, existing non-spatial management measures.
+?Develop draft management/regulatory mechanisms to support implementation and enforcement of the zoning framework.
+?Update national laws to reflect new regulatory mechanisms	High
+(Medium Term)	UNDP; UNEP (Nairobi Convention); Commonwealth Secretariat; WWF; TNC	?A range of options are available to address this. The simplest option would be to amend the Territorial Sea and Exclusive Economic Zone Act. However, this will need to be determined by the Steering Committee. 	
+
+
+
+2. DRIVERS & GOALS
+Specific Development Objective: Develop a clear vision and objectives for the MSP process that reflects the unique circumstances and interests of the URT
+Result Area 2.2: Define and prioritize goals and objectives for the MSP
+Context:
+?The key drivers for undertaking MSP in the URT are established in the respective manifestos of the ruling parties, as well as the broad national development frameworks for Mainland Tanzania and Zanzibar.
+?Need to clearly articulate goals for MSP and a clear policy guidance on the matter of ocean affairs.
+?There is a need to define the overarching vision, goals, principles and objectives for MSP, since this underpins the future implementation of MSP. 
+?Some form of goal-setting will be a necessary initial step for the future development of a national MSP framework.	Desired Outcomes:
+?A clearly defined Vision, Goals and Strategic Objectives framework for MSP, that reflects the needs and aspirations of the full range of stakeholders with an interest in the URT’s marine space.
+?Establishment of a set of generally agreed principles to guide the development of MSP across the URT.
+Recommended Activities
+Activity  	Key elements or steps for implementation 	Priority/Timeframe	Potential partners	Comments, critical conditions, and linkages	Output Type
+2.2.1: Define and prioritize goals and objectives for MSP through a collaborative ‘Future Scenario Planning’ process.	?Recruit a technical expert to lead the scenario-planning process.
+?Work with the Steering Committee to develop a number of different development scenarios.
+?Undertake a multi-stakeholder “Future Visioning” exercise to determine the preferred future development scenario for the URT.	High
+(Short Term)	TNC; CORDIO; WIOMSA	?The outcome of this Activity should inform the development of the policy framework proposed under Activity 1.2.1 above.
+?The process should involve a broad base of stakeholders, from Government, academia and civil society.	
+
+
+
+
+3. GEOGRAPHIC BOUNDARIES & SCOPE
+Specific Development Objective: Clearly define the scope and extent of the MSP framework in the context of the rights and obligations of the various stakeholders
+Result Area 3.1: Define geographic boundaries and planning areas 
+Context:
+?Although there is a need for an EEZ-wide MSP, most of the marine activity takes place within the coastal zone/territorial waters of Zanzibar and Mainland Tanzania respectively.
+?Planning for coastal areas therefore needs to be done at a higher resolution than for the area of the EEZ, that reflects the lower activity level and paucity of information available for the EEZ. 
+?Planning activities for the coast need to reflect the unique circumstances of Mainland Tanzania and Zanzibar.
+?Coastal planning activities need to also reflect the management of other key sectors including LGAs.
+?A system of spatially defined ‘marine planning areas’ is therefore recommended as a way to divide up the marine area into more manageable blocks that recognise the jurisdiction of different levels of government.	Desired Outcomes:
+?Clearly define the legal limits of the URTs maritime jurisdiction in accordance with the provisions of the United Nations Convention on the Law of the Sea.
+?A clearly [spatially] defined and agreed system of planning areas that reflects the functions, powers and duties of different levels of government (both Mainland and Zanzibar) and provides a framework for MSP planning activities.
+Recommended Activities
+Activity  	Key elements or steps for implementation 	Priority/Timeframe	Potential partners	Comments, critical conditions, and linkages	Output Type
+3.1.2: Prepare a systematic framework of planning areas that recognises: (a) the different levels of jurisdiction involved in planning and management of the URT’s marine space: and (b) the level of knowledge and understanding available to support planning and decision making across different parts of the URT’s marine space.	?Convene a sub-group of the Steering Committee to lead the process. 
+?Review pre-existing frameworks and evaluate possible options for a system of planning areas
+?Undertake consultations with relevant stakeholders
+?Present final draft to the MSP Steering Committee for approval/adoption under the joint VPO-MoBEF implementation mechanism.	High 
+(Short Term)
+	TNC; WWF; MCS	?This is a process that must be driven by the Steering Committee but with technical support as required.	
+
+
+
+Result Area 3.2: Understand the jurisdictional limits of internal, territorial and EEZ waters
+Context:
+?The limits of a State’s jurisdiction to regulate and manage activities undertaken in its marine space are defined under the LOSC.
+?For a comprehensive MSP process the sectoral jurisdiction pertaining to Environment, Fisheries, Aquaculture, Maritime Transport, Energy, Oil and Gas and other jurisdictional issues, will require in-depth planning assessments and in line with existing policy, legal and institutional arrangements within the URT.	Desired Outcomes:
+?Clearly define the jurisdictional boundaries of the different levels of Government with respect to their role in MSP and broader coastal resource management.
+?Amendment to relevant legal instruments to provide legal certainty over levels of jurisdiction.
+Recommended Activities
+Activity  	Key elements or steps for implementation 	Priority/Timeframe	Potential partners	Comments, critical conditions, and linkages	Output Type
+3.2.1: Undertake a review of the Territorial Sea and Exclusive Economic Zone (TSEEZ) Act as part of the MSP process.	?Prepare amendments/updates to the TSEEZ Act to address MSP planning mechanism.
+?Draft amendments to the Act.
+?Submit for Parliamentary approval.	High
+(Medium Term)	N/A	?In the long-term, it is desirable to include the ECS within the overall MSP framework.
+?Inclusion of the CS will need to reflect the limitations of the jurisdiction over the water column above the ECS.	
+
+3.2.2: Enhance Inter-sectoral collaboration with respect to internal waters and determine the extent of MSP for local-level spatial plans.	?Undertake a review of relevant legal instruments in consultation with relevant government stakeholders. 
+?Undertake consultations with key sectoral counterparts. 
+?Evaluate possible division of responsibilities for MSP between sectors.
+?Prepare guidance on how the development of MSP should incorporate relevant elements of inter-sectoral MSP planning and resource management.	High
+(Short Term)	N/A	?This is essentially a Government driven process that must reflect the specific arrangements both in Mainland Tanzania and Zanzibar.	
+
+3.2.3: Define and agree upon a definitive value describing the spatial extent of the various maritime zones relative to the agreed URT maritime baseline.	?Confirm a definitive URT-wide set of baseline and maritime boundary coordinates
+?Undertake a GIS analysis based on the agreed coordinates
+?Consult and agree upon spatial extent of each of the maritime zones
+?Update relevant government documents with agreed spatial extents.	Low
+(Long Term)	TNC	?This is necessary to ensure consistent use of data in government-wide reports and documents	
+Result Area 3.3: Establish what existing and future uses need to be addressed
+Context:
+?A range of existing and proposed activities have the potential to operate within the limits of the URT’s marine space.
+?Although the Governments of Zanzibar and Mainland Tanzania have begun to identify priorities for blue economy development, these processes need to be further elaborated in order to identify the broadest possible development opportunities and to plan for, and catalyse, their potential development through MSP. 
+?There are potential conflicts between different activities that require coordination between a range of different management bodies.
+?These need to be fully understood in order to develop a robust MSP framework.	Desired Outcomes:
+?Develop a detailed understanding of the type and extent of activities currently underway in the URT’s maritime waters.
+?Prepare authoritative data layers for each activity to include in the MSP/GIS data analysis.
+?Undertake spatial analysis of human uses and potential areas of conflict within the URT’s maritime waters.
+Recommended Activities
+Activity  	Key elements or steps for implementation 	Priority/Timeframe	Potential partners	Comments, critical conditions, and linkages	Output Type
+3.3.1: Define the scope of existing and future uses to be included in MSP.	?Identify and map the full range of activities undertake in the URT’s maritime waters.
+?Based on the future vision scenario prepared under 1.2.1 above, identify future uses and their spatial demands.
+?Assess individual and cumulative impacts of activities and compatibility/incompatibility of different activities.	High
+(Short Term)	UNDP; UNEP (Nairobi Convention); FAO	?This is a necessary step to determine the overall scope of the MSP activity.
+?It is likely that this will be achieved through the development of the Policy reflected in Activities 1.2.1 and 2.2.1 above.
+?Alternatively, this could also be achieved through the completion of a National Blue Economy Status Assessment (or similar process).	
+
+3.3.2: Prepare a Strategic Environmental Assessment (SEA) for MSP across the URT that takes account of the proposed ports development and related Blue Economy infrastructure.	?Draft ToR for the SEA.
+?Recruit a technical expert to lead the SEA.
+?Prepare draft SEA report.
+?Undertake stakeholder consultation on draft SEA.
+?Revise draft SEA report based on stakeholder feedback.
+?Present final draft to Steering Committee for approval/adoption.	Medium 
+(Medium Term)	UNEP (Nairobi Convention); WWF; TNC	?This is not an essential precursor to MSP.
+?However, there is a need to understand what impacts planned and future development  swill have on the existing uses of the URT’s marine space.
+?It is suggested that the Scenario-Based Planning activity proposed above should be undertaken prior to any SEA.	
+
+
+3.3.3: Undertake an additional scoping study analysis that assesses the application of MSP to the freshwater bodies of the URT.	?Undertake a policy, legal and institutional analysis relating to the management of freshwater  bodies in the URT. (This should include transboundary management mechanisms)
+?Undertake a full scoping study including data audit and an assessment of existing management mechanisms for freshwater bodies in the URT.
+?Identify synergies for application of spatial planning concepts to freshwater bodies in the URT.	High 
+(Short Term)
+	UNDP; TNC	?It has not been possible to assess the specific planning needs for freshwater resources under this scoping study.
+?However, the broad principles of MSP can equally be applied to freshwater resources.
+?There is a need to understand the specific policy, legal and institutional arrangements and needs for freshwater in the URT.	
+
+
+
+
+4. DATA COLLECTION & MANAGEMENT
+Specific Development Objective: Collect, collate and present knowledge and information about the marine environment of the URT, its condition, current & future uses and areas of significant environmental value
+Result Area 4.1: Collate and map spatial data to create GIS layers for MSP
+Context:
+?The ultimate objective of marine spatial planning is to achieve such an integrated management of a marine area – marine spatial data is the fundamental basis that allows this to happen.
+?Mapping marine resources and uses by consolidating existing data allows planners and decision-makers to consider the cumulative effect of maritime industries on key features that may be particularly sensitive. 
+?In so doing, it provides a spatial understanding of conflicts and potential compatibilities of operations with marine ecosystems and their values – the risks and opportunities of undertaking a given activity in a given location.	Desired Outcomes:
+?Authoritative GIS data layers representing human uses and key marine environment layers.
+?Data on key human uses procured/obtained from third parties.
+?Develop a network of researchers/NGOs with research interests in the URT who may have data that can be shared.
+?Identification of future data requirements to support MSP and management of the URT’s marine space.
+?Identification of relevant data existing outside of the URT and development and adoption of a strategy for procuring said data.
+?Adoption of a prioritised marine spatial data capture strategy for the URT.
+Recommended Activities
+Activity  	Key elements or steps for implementation 	Priority/Timeframe	Potential partners	Comments, critical conditions, and linkages	Output Type
+4.1.1: Collate and map existing baseline data and assess future data needs and gaps.	?Develop a detailed seabed habitat map of the entire coast and EEZ.
+?Develop authoritative data sets/layers of human uses to include in the MSP/GIS data analysis.
+?Undertake spatial analysis of human uses and potential areas of conflict within the URT’s marine space.
+?Identify critical data needs and gaps (e.g. seagrass distribution, offshore pelagic fishery resources) that will need to be filled over time.	High
+(Short Term)	WIOMSA; UNEP (Nairobi Convention); IMS; FAO; CORDIO	?The initial data audit needs to be undertaken. During this scoping study provides a basic snapshot of existing Government -held data.
+?Further, more detailed work is required to better understand the quality of the existing data and to prioritise the most critical data gaps with respect to MSP.
+?Furthermore, no assessment has yet been undertaken of the data held by researchers and civil society, some of which is likely to be detailed and comprehensive.
+?This process must therefore involve all existing data holders across the URT.
+?This will require GIS-trained technicians to undertake the data collation and mapping activities.	
+
+4.1.2: Develop a comprehensive data capture/procurement programme.	?Identify possible sources or mechanisms through which to procure data identified under 4.1.1. above.
+?Develop a strategy that identifies, as a minimum, key data needs, where the data exists or can be obtained from, the mechanism for obtaining/procuring the data.
+?Prioritise data gaps/needs.
+?Identify data sources, availability, costs and licensing requirements (include satellite imagery, bathymetry, research cruise data for offshore waters etc.).	High
+(Short Term)	WIOMSA; UNEP (Nairobi Convention); IMS; FAO; CORDIO	?Procurement in this sense includes data sharing with other data holders, new research and data collection and the purchase of commercially available data (e.g. AIS data for shipping).
+?Data collection will be an ongoing and iterative process throughout MSP.
+?This is necessary to ensure the limited resources that are available are targeted at the highest priority areas.
+?Note that this process will have significant flow on benefits for the URT in terms of improving the knowledge base for future planning and decision making.	
+
+Result Area 4.2: Establish robust data management and mapping systems
+Context:
+?Having access to reliable data upon which management decisions can be based is an imperative to the MSP process.
+?Various efforts have been attempted to establish effective data storage and management systems, and in populating those systems with existing data, both in Mainland Tanzania and Zanzibar.
+?Data storage and management should reflect  the type of system that will be necessary for MSP.	Desired Outcomes:
+?A state-of-the-art sustainable data storage and access system to support the MSP process and data management needs.
+?A full inventory and meta-database developed for existing data and information pertinent to the URT’s marine space.
+Recommended Activities
+Activity  	Key elements or steps for implementation 	Priority/Timeframe	Potential partners	Comments, critical conditions, and linkages	Output Type
+4.2.1: Establish protocols and a national-level marine spatial data clearing mechanism to allow for the sharing of data between different institutions and organisations.	?Establish a TWG to review data sharing and management requirements for MSP.
+?Select technical partner. 
+?Develop draft Data Sharing Agreement (DSA).
+?Develop data storage and handling guidelines for all marine spatial data.
+?Undertake an audit of IT-infrastructure needs and existing capability that may be applicable to support data management and analysis for MSP.
+?Decision on whether to proceed with such a mechanisms for the URT.
+?Identify initial data themes and priorities.
+?Acquire existing data and identify gaps. 
+?Convene a user group of key stakeholders to undertake alpha-testing of the system. 
+?Refine site to support development of MSP in line with the MSP Framework. 
+?Undertake beta-testing of site and functionality. 
+?Portal development and implementation.	High
+(Long Term)	WIOMSA; UNEP (Nairobi Convention); IMS; FAO	?A range of existing platforms have been identified.
+?It is recommended to utilise one of these and to have a duplicate platform of the same data held in a Mainland Institution and a Zanzibar institution. This will provide for redundancy in the hardware.
+?A sustainable funding source will be required to ensure the long-term support of such a mechanism.	
+
+
+4.2.2: Undertake an audit of international MSR undertaken in the URT’s marine waters and determine how to capture data from researchers.	?Engage with key agencies, researchers and environmental organisations with a history of research and marine data collection in URT.
+?Prepare an inventory of known data sets/information that is available in URT.
+?Assess the feasibility of digitising key marine datasets and making them publicly available.
+?Identify possible researchers (e.g. MSc students) who may undertake data analysis and digitisation.	Low
+(Long Term)	WIOMSA; UNEP (Nairobi Convention); IMS; UNESCO-IOC	?This would be an ideal activity to be undertake by an appropriate research institution.	
+
+
+5. MULTIPLE-OBJECTIVE PLANNING PROCESS
+Specific Development Objective: Develop a spatial planning framework that reflects both the broad range of stakeholder interests and the goals and objectives for development of the URT’s marine space
+Result Area 5.1: Implement a comprehensive programme for stakeholder engagement 
+Context:
+?The support of stakeholders in the formulation and implementation of the MSP framework is critical to its success. 
+?A broader partnership approach whereby stakeholders are involved throughout the process with transparency and accountability between all parties, is required. 
+?Partnerships between government, the private sector and civil society must be built in order to ensure co-responsibility for management.
+?A comprehensive stakeholder identification and mapping process must be undertaken at the outset of any MSP initiative.
+?A strategy that supports engagement with the various stakeholders during MSP will be an important element of the project.	Desired Outcomes:
+?Identification of the various stakeholders and their interest and level of influence.
+?Defined mechanisms for how to engage with different groups of stakeholders.
+?A package of communications tools to showcase the project.
+?A schedule of key stakeholder engagement opportunities throughout the MSP initiative.
+Recommended Activities
+Activity  	Key elements or steps for implementation 	Priority/Timeframe	Potential partners	Comments, critical conditions, and linkages	Output Type
+5.1.1: Develop and implement a comprehensive programme for stakeholder engagement coastal communities and other stakeholders can be proactively communicated and fully reflected in MSP.  	?Identify and recruit a technical partner to support the stakeholder engagement process.
+?Undertake stakeholder identification, mapping and analysis for each of the defined planning areas.
+?Identify key forums through which broad engagement with stakeholders can be undertaken.
+?Develop key communications materials to support stakeholder engagement.
+?Prepare draft Strategy for review by the PSC.
+?Revise and finalise Strategy based on feedback.
+?Hold initial stakeholder workshops in each of the defined planning areas to engage with coastal user groups and industry sectors.	High
+(Short Term)	TNC; UNDP; UNEP (Nairobi Convention); WWF	?This process should commence at the outset but will continue throughout the MSP process.
+?A broad range of mechanisms will be required from a simple website, to workshops and community-based consultation.
+?The process must be overseen by the Steering Committee established under Activity 1.1.1 above.	
+
+
+Result Area 5.2: Strengthen existing spatial planning processes and tools
+Context:
+?Spatial planning, in general, is a well-established tool, operating at different jurisdictional levels and geographic scales across the URT.
+?A broad range of spatial management tools exist for managing different marine sectors that are highly relevant for a future MSP initiative.
+?However, for some sectors there is a need to amend a number of the existing legal instruments to establish a clearer legal basis for the application of sector-specific spatial management tools.	Desired Outcomes:
+?Understand the broad range of existing spatial management tools that can be applied in the context of MSP to avoid having to “reinvent the wheel”.
+?A broad range of legally defined spatial management tools that can be utilised within a MSP context to regulate and control individual sectors and activities.
+Recommended Activities
+Activity  	Key elements or steps for implementation 	Priority/Timeframe	Potential partners	Comments, critical conditions, and linkages	Output Type
+5.2.1: Adopt a more systematic approach to marine conservation planning that inter alia, considers how other biodiversity objectives can be served using existing spatial designations (i.e. MPAs, CFMAs) and linking these to other spatial management mechanisms.	?Undertake an assessment of the full range of spatial tools currently utilised, both at the national and local levels to manage marine and coastal resources and activities.
+?Identify gaps and define future spatial management needs to be addressed under MSP.
+?Undertake a spatial assessment of internal and territorial waters to determine additional marine areas that may warrant greater protection and define the specific mechanisms for their protection (consider also the expansion of existing areas).
+?Undertake an EEZ-wide assessment of conservation values (with a particular focus on offshore waters) to determine further candidate sites for protection to achieve the URT’s biodiversity conservation objectives.	High
+(Medium Term)	TNC; UNDP; UNEP; WWF	?This activity links to Activities 2.2.1 and 3.3.2 above in terms of defining priorities for future development of the URT’s marine space.
+?This Activity will need to be undertaken in conjunction with the DSFA, as well as LGAs and local communities.	
+
+5.2.2: Update Key Sectoral Legislations to integrate MSP management principles.	?Define legal requirements to be achieved.
+?Undertake an audit of legal instruments and agency statutory functions, identifying gaps and overlaps to be addressed.
+?Prepare appropriate legislative amendments to address gaps and overlaps.
+?Submit for Parliamentary/House of Representatives approval.	Medium
+(Medium Term)	World Bank; SWIOFISH, UNDP, etc.	?It is understood that for some Acts such as Fisheries Act for Mainland and Zanzibar, and the Maritime Transport Act for Zanzibar, amendments are underway. These legal provisions should be updated to include MSP process.
+?This Activity links closely with the proposed amendments under the Local Government Acts as outlined in Activity 3.2.2 above.	
+5.2.3: Seek to designate 30% of the URT’s marine space for protection from the most harmful human activities by 2030.	?Collate existing spatial data relating to MPAs other area-based management tools
+?Undertake Marxan analysis to identify high value conservation areas
+?Consult with stakeholders on identified high value sites
+?Prepare draft MPA framework
+?Undertake consultation on draft MPA framework and revise accordingly
+?Establish legal basis for new MPAs throughout the EEZ and territorial sea	High
+(Long Term)	TNC; UNDP; UNEP; WWF	?This activity links with Activities 5.2.1 and 5.3.1.
+?This Activity will need to be undertaken in conjunction with the DSFA, as well as LGAs and local communities.	
+5.2.4: Review the existing spatial management measures available to regulate the movement of shipping under the Merchant Shipping Act No. 21 of 2003 and the Maritime Transport Act No. 5 of 2006 respectively.
+	?Develop a representative spatial data set of international shipping movements throughout the EEZ (AIS data).
+?Identify key sites/activities that are vulnerable to the impacts of shipping.
+?Assess shipping risks (both present and future forecast).
+?Review suitable mechanisms and their impacts on other users.
+?Propose mechanisms for adoption through the IMO
+?Submit proposals to IMO (as necessary and appropriate).	Low
+(Long Term)	IMO; UNDP; UNCLOS; etc.	?This should be done in the context of the proposed SEA under Activity 3.3.2.
+?Specific measures may need to be adopted through the IMO.
+?The assessment should consider all shipping movements throughout the URT’s marine space. 	
+5.2.5: Establish a clear legal basis for the protection of subsea pipelines and cables.	?Define legal requirements to be achieved.
+?Undertake an audit of legal instruments and agency statutory functions, identifying gaps and overlaps to be addressed.
+?Prepare appropriate legislative amendments to address gaps and overlaps.	Low
+(Long Term)	UNDP; UNCLOS; etc.	?This is needed to ensure that subsea infrastructure is protected from other activities that may impact the seabed.
+?Linkages should be made with existing legislation relating to petroleum exploration and production.	
+Result Area 5.3: Define a zoning framework for the URT
+Context:
+?Ocean zoning is one of the key tools with which MSP seeks to manage and where appropriate separate human activities.
+?For zoning to work well, there needs to be a number of different ocean zones. 
+?Although zoning is widely used in the planning and implementation of MPAs in Mainland Tanzania and Zanzibar, no broad zoning framework currently exists for non-protected areas of the URT’s marine space. 	Desired Outcomes:
+?Zoning guidelines to guide decision making for the establishment of zoning of the URT’s marine space.
+?Agreement on core zones with stakeholders.
+?Preliminary zoning framework with zoning maps.
+Recommended Activities
+Activity  	Key elements or steps for implementation 	Priority/Timeframe	Potential partners	Comments, critical conditions, and linkages	Output Type
+5.3.1: Prepare an MSP zoning framework to guide appropriate tools for management controls. 	?Review/agree upon the criteria for establishing different zones based on both biophysical and management criteria
+?Consult with stakeholders over the proposed zoning criteria/guidelines
+?Undertake testing of the guidelines against different zoning scenarios
+?Review, and update as appropriate, existing non-spatial management measures.
+?Develop draft management/regulatory mechanisms to support implementation and enforcement of the zoning framework.
+?Consult with third parties to determine what cooperative management mechanisms could be adopted to achieve the objectives of MSP.
+?Communicate new measures through URT website
+?Update national laws to reflect new regulatory mechanisms	High
+(Medium Term)	TNC; WWF; WIOMSA; IMS; UNDP; UNEP Nairobi Convention)	?The zoning framework should build on existing zoning mechanisms and, to the greatest extent possible, utilise existing spatial management tools	
+
+
+Result Area 5.4: Prepare a broad-scale spatial management plan
+Context:
+?The spatial management plan is a key output of the MSP process that sets out the framework and direction for marine spatial management decisions. It represents the culmination of all the preceding steps in the process.
+?The spatial management plan guides the ecological, social, and economic development of the marine management area, and identifies specific management measures that will produce the desired future through explicit decisions about the location and timing of human activities. 
+?The marine spatial management plan is not an end in itself but a beginning toward the implementation of desired goals and objectives.	Desired Outcomes:
+?Adoption of final spatial management plan for the URT.
+Recommended Activities
+Activity  	Key elements or steps for implementation 	Priority/Timeframe	Potential partners	Comments, critical conditions, and linkages	Output Type
+5.4.1: Develop a comprehensive Spatial Management Plan for the entire EEZ which clearly sets out the Government’s management objectives and the tools established to achieve those objectives.	?Identify alternative spatial and temporal management measures
+?Specify criteria for selecting marine spatial management measures
+?Finalise the zoning plan
+?Evaluate the spatial management plan and consult with stakeholders
+?Steering Committee approves the spatial management plan	High
+(Long Term)	TNC; UNDP; UNEP; WWF	?This is the ultimate goal of the process and the final output. 
+?This may take several years to achieve and will be an iterative process. 	
+
+
+6.3.3
+Preliminary budget for the development of MSP 
+OVERALL PROJECT BUDGET FIGURE			USD 2,670,108
+1. GOVERNANCE ARRANGEMENTS			2,114,708
+Result Area 1.1: Establish effective institutional arrangements to support and coordinate MSP			1,967,508
+1.1.1: Define and establish a VPO - MoBEF coordination and implementation mechanism with dedicated technical groups and well-defined roles and responsibilities. [High (Short Term)]	Procurement - Goods	Five vehicles and spare parts		250,000
+	Procurement – Consultants	Consultants who will be on stand to support the Coordination team	4 consultancies @ 10 000	40,000
+	Consultation Costs	1. MSP Steering Committee (2 meetings per year; members not more than 14;  accompanied by a driver and Personal Assistants)
+Meeting and travel days are 3 days
+
+2. Consultative meetings (once a year)
+Composition of supported participants to consultative meetings: Districts representatives - 18 Districts x 3 = 54; Sector representatives - 7 priority sectors * 4 = 28
+Meeting and travel days are 3 days	$ 500 per participant*2 meetings*42 supported participants* 3 days
+
+
+$ 400 per participant*2 meetings*82 supported participants* 3 days	
+
+
+126,000
+
+
+
+
+
+196,800
+	Project Management	Hybrid model with some staff seconded from the Governments; (details on the organizational of the programme) 
+Other costs: Offices (provided by the Government); fuel costs; office costs; communication/dissemination; maintenance, printing, internet, website, etc.		1,106,408
+
+
+121,100
+	Sub-total			1,840,308
+1.1.2: Establish an effective technical-level mechanism to oversee MSP co-ordination in areas where Mainland Tanzania and Zanzibar have adjacent jurisdictions and common management interests. [Medium (Short Term)]	Procurement - Goods			
+	Procurement – Consultants	Two consultancies: i) Fisheries & ii) Shipping & Ports	2 consultancies @ 15 000	30,000
+	Consultation Costs	Linked with 1.1.2 and meetings of TWG (the development of the marine spatial plan)
+TWG will consists of 14 members, will twice a year	
+$ 400 per participant*2 meetings*14 supported participants* 3 days	
+
+67,200
+	Project Management			
+	Sub-total			97,200
+1.1.3: Undertake a Capacity needs Analysis across Mainland Tanzania and Zanzibar. [Medium (Short Term)]	Procurement - Goods			
+	Procurement – Consultants	Two consultancies: i) capacity needs assessment & ii) comprehensive programme of capacity building activities	2 consultancies @ 15 000	30,000
+	Consultation Costs	Linked with 1.1.2 and meetings of TWG (the development of the marine spatial plan)		
+	Project Management			
+	Sub-total			30,000
+Result Area 1.2: Establish robust implementation mechanisms to support MSP				147,200
+1.2.1: Prepare an overarching National Ocean Governance Policy for the URT to guide the development and implementation of the blue economy and MSP. [High (Short Term)]	Procurement - Goods			
+	Procurement – Consultants	3 consultancies: i) 2 drafting Ocean Governance Policy &  1 facilitating consultation processes	3 consultancies @ 18 000	54,000
+	Consultation Costs	Linked with 1.1.2 and meetings of TWG (the development of the marine spatial plan)		
+	Project Management			
+	Sub-total			54,000
+1.2.2: Establish the legal basis for MSP in Mainland Tanzania and Zanzibar. [High (Medium Term)]	Procurement - Goods			
+	Procurement – Consultants	2 Consultancies: i) non-spatial management measures &
+ii) management/regulatory mechanisms	2 consultancies @ 13 000	26,000
+	Consultation Costs	Linked with 1.1.2 and meetings of TWG (the legal and policy framework)
+TWG will consists of 14 members, will twice a year	
+$ 400 per participant*2 meetings*14 supported participants* 3 days	
+
+67,200
+	Project Management			
+	Sub-total			93,200
+2. DRIVERS & GOALS				30,000
+Result Area 2.2: Define and prioritize goals and objectives for the MSP				30,000
+2.2.1: Define and prioritize goals and objectives for MSP through a collaborative ‘Future Scenario Planning’ process. [High (Short Term)]	Procurement - Goods			
+	Procurement – Consultants	2 consultancy for the scenario-planning process	2 consultancies @ 15 000	30,000
+	Consultation Costs	Linked with 1.1.2 and meetings of TWG (the development of the marine spatial plan)		
+	Project Management			
+	Sub-total			30,000
+3. GEOGRAPHIC BOUNDARIES & SCOPE				112,000
+Result Area 3.1: Define geographic boundaries and planning areas				12,000
+3.1.2: Prepare a systematic framework of planning areas that recognises: (a) the different levels of jurisdiction involved in planning and management of the URT’s marine space: and (b) the level of knowledge and understanding available to support planning and decision making across different parts of the URT’s marine space. [High (Short Term)]	Procurement - Goods			
+	Procurement – Consultants	1 consultancy	1 consultancy @ 12 000	12,000
+	Consultation Costs	Linked with 1.1.2 and meetings of TWG (the development of the marine spatial plan)		
+	Project Management			
+	Sub-total			12,000
+Result Area 3.2: Understand the jurisdictional limits of internal, territorial and EEZ waters				40,000
+3.2.1: Undertake a review of the Territorial Sea and Exclusive Economic Zone (TSEEZ) Act to address MSP planning needs [High (Medium Term)]	Procurement - Goods			
+	Procurement – Consultants	1 consultancy on amendments/updates to the TSEEZ Act	1 consultancy @ 15 000	30,000
+	Consultation Costs	Linked with 1.1.2 and meetings of TWG (the legal and policy framework) 		
+	Project Management			
+	Sub-total			30,000
+3.2.2: Enhance Inter-sectoral collaboration with respect to internal waters and determine the extent of MSP for local-level spatial plans. [High (Short Term)]	Procurement - Goods			
+	Procurement – Consultants	1 consultancy on a review of relevant legal instruments; division of responsibilities for MSP between sectors & guidelines on inter-sectoral MSP planning	1 consultancy @ 10 000	10,000
+	Consultation Costs	Linked with 1.1.2 and meetings of TWG (the legal and policy framework)		
+	Project Management			
+	Sub-total			10,000
+Result Area 3.3: Establish what existing and future uses need to be addressed				60,000
+3.3.1: Define the scope of existing and future uses to be included in MSP. [High (Short Term)]	Procurement - Goods			
+	Procurement – Consultants	1 consultancy on mapping of the full range of existing and future (from 1.2.1) activities	1 consultancy @ 15000	15,000
+	Consultation Costs	Linked with 1.1.2 and meetings of TWG (the development of the marine spatial plan)		
+	Project Management			
+	Sub-total			15,000
+3.2.2: Prepare a Strategic Environmental Assessment (SEA) for MSP. [Medium (Medium Term)]	Procurement - Goods			
+	Procurement – Consultants	1 consultancy for leading  the SEA process and prepare its report	1 consultancy @ 20000	20,000
+	Consultation Costs	Linked with 1.1.2 and meetings of TWG (the development of the marine spatial plan)		
+	Project Management			
+	Sub-total			20,000
+3.2.3: Undertake an additional scoping study analysis that assesses the application of MSP to the freshwater bodies of the URT. [High (Short Term)]	Procurement - Goods			
+	Procurement – Consultants	1 consultancy	1 consultancy @ 25000	25,000
+	Consultation Costs	Linked with 1.1.2 and meetings of TWG (the development of the marine spatial plan)		
+	Project Management			
+	Sub-total			25,000
+4. DATA COLLECTION & MANAGEMENT				163,200
+Result Area 4.1: Collate and map spatial data to create GIS layers for MSP				127,200
+4.1.1: Collate and map existing baseline data and assess future data needs and gaps. [High (Short Term)]	Procurement - Goods			
+	Procurement – Consultants	2 consultancies: i) compiling existing data & ii) for production of detailed seabed habitat map of the entire coast and EEZ	2 consultancy @ 15000	30,000
+	Consultation Costs	Meetings of TWG (data procurement and management)
+TWG will consists of 14 members, will twice a year	
+$ 400 per participant*2 meetings*14 supported participants* 3 days	
+
+67,200
+	Project Management			
+	Sub-total			97,200
+4.1.2: Develop a comprehensive data capture/procurement programme. [High (Short Term)]	Procurement - Goods			
+	Procurement – Consultants	1 consultancy on the development of a strategy to capture/procure data (based on outputs of 4.1.1)	1 consultancy @ 15000	30,000
+	Consultation Costs	Meetings of TWG (data procurement and management)		
+	Project Management			
+	Sub-total			30,000
+Result Area 4.2: Establish robust data management and mapping systems				36,000
+4.2.1: Establish protocols and a national-level marine spatial data clearing mechanism to allow for the sharing of data between different institutions and organisations. [High (Long Term)]	Procurement - Goods			
+	Procurement – Consultants	2 consultancies: i) data storage and handling guidelines &
+ii) Portal development	2 consultancies @ 13 000	26,000
+	Consultation Costs	Meetings of TWG (data procurement and management)		
+	Project Management			
+	Sub-total			26,000
+4.2.2: Undertake an audit of international MSR undertaken in the URT’s marine waters and determine how to capture data from researchers. [Low (Long Term)]	Procurement - Goods			
+	Procurement – Consultants	1 consultancy for preparation of an inventory of known data sets/information	1 consultancy@ 10000	10,000
+	Consultation Costs	Meetings of TWG (data procurement and management)		
+	Project Management			
+	Sub-total			10,000
+5. MULTIPLE-OBJECTIVE PLANNING PROCESS				250,200
+Result Area 5.1: Implement a comprehensive programme for stakeholder engagement				82,200
+5.1.1: Develop and implement a comprehensive programme for stakeholder engagement coastal communities and other stakeholders can be proactively communicated and fully reflected in MSP. [High (Short Term)]	Procurement - Goods			
+	Procurement – Consultants	1 consultancy to develop communication strategy	1 consultancy @15000	15,000
+	Consultation Costs	Meetings of TWG (stakeholder engagement)
+TWG will consists of 14 members, will twice a year	
+$ 400 per participant*2 meetings*14 supported participants* 3 days	
+
+67,200
+	Project Management			
+	Sub-total			82,200
+Result Area 5.2: Strengthen existing spatial planning processes and tools				108,000
+5.2.1: Adopt a more systematic approach to marine conservation planning that inter alia, considers how other biodiversity objectives can be served using existing spatial designations (i.e. MPAs, CFMAs) and linking these to other spatial management mechanisms. [High (Medium Term)]	Procurement - Goods			
+	Procurement – Consultants	2 consultancies: i) an assessment of the full range of spatial tools & ii) spatial assessment of internal, territorial waters &EEZ	2 consultancies@ USD 18 000	36,000
+	Consultation Costs	Linked with 1.1.2 and meetings of TWG (the development of the marine spatial plan)		
+	Project Management			
+	Sub-total			36,000
+5.2.2: Update Key Sectoral Legislations to integrate MPAs, MCAs and other MSP management measures. [Medium (Medium Term)]	Procurement - Goods			
+	Procurement – Consultants	1 consultancy on an audit of legal instruments and agency statutory functions, identifying gaps and overlaps to be addressed	1 consultancy @15000	15,000
+	Consultation Costs	Meetings of TWG (the legal and policy framework)		
+	Project Management			
+	Sub-total			15,000
+5.2.3: Seek to designate 30% of the URT’s marine space for protection from the most harmful human activities by 2030. [High (Long Term)]	Procurement - Goods			
+	Procurement – Consultants	2 consultancies: i) Undertake Marxan analysis to identify high value conservation areas & ii) legal basis for new MPAs throughout the EEZ and territorial sea	2 consultancies @15000 	
+30,000
+	Consultation Costs	Linked with 1.1.2 and meetings of TWG (the development of the marine spatial plan) and meetings of TWG (the legal and policy framework)		
+	Project Management			
+	Sub-total			30,000
+5.2.4: Review the existing spatial management measures available to regulate the movement of shipping under the Merchant Shipping Act No. 21 of 2003 and the Maritime Transport Act No. 5 of 2006 respectively [Low (Long Term)]	Procurement – Goods			
+	Procurement – Consultants	1 consultancy on review of the existing spatial management measures	1 consultancy @15000	15,000
+	Consultation Costs	Meetings of TWG (the legal and policy framework)		
+	Project Management			
+	Sub-total			15,000
+5.2.5: Establish a clear legal basis for the protection of subsea pipelines and cables. [Low (Long Term)]	Procurement - Goods			
+	Procurement – Consultants	1 consultancy - an audit of legal instruments and agency statutory functions	1 consultancy @12000	12,000
+	Consultation Costs	Meetings of TWG (the legal and policy framework)		
+	Project Management			
+	Sub-total			12,000
+Result Area 5.3: Define a zoning framework for the URT				30,000
+5.3.1: Prepare an MSP zoning framework to guide appropriate tools for management controls. [High (Medium Term)]	Procurement - Goods			
+	Procurement – Consultants	2 consultancies: i) the criteria for establishing different zones & ii) develop draft management/regulatory mechanisms 	2 consultancies @ 15000	30,000
+	Consultation Costs	Linked with 1.1.2 and meetings of TWG (the development of the marine spatial plan)		
+	Project Management			
+	Sub-total			30,000
+Result Area 5.4: Prepare a broad-scale spatial management plan				30,000
+5.4.1: Develop a comprehensive Spatial Management Plan for the entire EEZ which clearly sets out the Government’s management objectives and the tools established to achieve those objectives. [High (Long Term)]	Procurement - Goods			
+	Procurement – Consultants	2 consultants to finalize the plan	2 consultants @15000	30,000
+	Consultation Costs	Linked with 1.1.2 and meetings of TWG (the development of the marine spatial plan)		
+	Project Management			
+	Sub-total			30,000
+
+
+6.4MSP Implementation, Monitoring and Review 
+6.4.1Implementation
+One of the key outcomes of the MSP process is the development of a comprehensive Spatial Management Plan. The plan should be a statement of policy from the Government, in partnership with other key agencies and authorities that are responsible for single sectors. It should present an integrated vision of the spatial aspects of their sectoral policies in the areas of economic development, marine transport, environmental protection, energy and fisheries.
+The Spatial Management Plan should be a comprehensive document that sets out the framework and direction for marine spatial management decisions. It will identify when, where, and how goals and objectives will be met and will be based on the agreed zoning framework. The Spatial Management Plan will be supported by a range of non-spatial management tools.
+Once such a plan has been developed and adopted, the success of that plan will depend upon its effective implementation. This should include providing clarity around the legal basis for planning and decision-making, the institutional roles and responsibilities for implementing the plan and how the plan interacts with the management of other activities in the URT’s marine space. 
+MSP implementation will be undertaken primarily by the relevant Government agencies under the oversight of the relevant lead MSP Authority, as well as technical expertise from a range of development partners. 
+It must be recognised that effective implementation of MSP will require human resourcing and long-term funding. A number of funding mechanisms should be explored, beyond project-specific finance, to support sustainable implementation of the MSP.
+6.4.2Monitoring 
+Since the test of the Spatial Management Plan will be in its implementation, a range of operational procedures are suggested for monitoring, controlling and updating the plan’s elements as a direct continuation to formulating its recommendations. Monitoring should occur at two levels:
+1. Monitoring the state of the marine environment – examining accumulated information regarding the status of the marine environment as a basis for planning and decision making and for reviewing and revising specific elements of the plan.
+2. Monitoring uses and actions within the URT’s marine space – setting conditions on licenses and authorisations and ensuring compliance with those licence conditions as well as monitoring the activities of other users of the area to ensure they are complying with the various requirements set out by the Government. The approach to compliance and enforcement of the plan must be flexible enough to be applied in individual permits, licences or variances as required.
+In order to help create momentum in applying, monitoring and updating this plan, it is recommended that a process of adaptive management be implemented as follows:
+1)Ongoing monitoring of implementation of plan elements and of developments and events pertaining to the URT’s marine space with respect to the plan and its policy measures, in such areas as: governance, regulation, research and knowledge, spatial planning, development plans and construction of infrastructures, environmental quality and relevant international developments.
+2)A five yearly process of monitoring and evaluation and, where necessary, update components and policy measures.
+3)Continued engagement with stakeholders including regional marine management organisations and development partners, in order to discuss the monitoring report and proposals for updating the plan.
+4)Updating the components of the URT’s Spatial Management Plan, both regarding policy measures and regarding the spatial structure based on the monitoring findings and improvements in understanding and knowledge of the area.
+This adaptive approach will allow for improved management and responsible stewardship by the Government and relevant stakeholders. 
+6.4.3Evaluation 
+
+Figure 26: The adaptive management cycle for MSP implementation

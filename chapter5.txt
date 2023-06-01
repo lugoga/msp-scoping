@@ -1,0 +1,560 @@
+5FINDINGS AND RECOMMENDATIONS 
+In order to assess the level of preparedness for the country to undertake MSP, a high-level conceptual framework was developed to inform the analysis (Table 14). Each of the five elements listed in Table 14 are elaborated and discussed below, including an identification of key gaps and challenges and concomitant recommendations to address them. 
+Table 14: Analytical framework for development of MSP
+ELEMENTS OF THE HIGH-LEVEL CONCEPTUAL FRAMEWORK
+1.Governance Arrangements	?Institutional arrangements
+?Policy and legal basis to support MSP implementation
+2.Drivers & Goals	?Understanding the drivers for MSP
+?Goals and objectives for MSP in the URT
+3.Geographic Boundaries & Scope 	?Geographic boundaries and planning areas
+?Jurisdictional limits 
+?Future uses to include in MSP
+4.Data Collection & Management	?Availability of key marine spatial data sets
+?Data management and access 
+?Science and research input
+5.Multi-objective Planning Process	?Multi-use stakeholder engagement 
+?Existing spatial planning processes and tools
+?Marine zoning activities
+
+5.1Governance Arrangements
+This section should be read in conjunction with section 4.4 above, which provides an overview of the various policy, legal and institutional arrangements that apply to different blue economy sectors across the URT.
+5.1.1Institutional arrangements
+According to UNESCO-IOC, the development of MSP requires two types of authority: (i) Authority to plan for MSP; and (ii) Authority to implement MSP (UNESCO-IOC/EU, 2021). Both types of authority are equally important. They could be combined in one organization, but in many MSP initiatives around the world, a new authority is often established for MSP, whilst implementation is carried out through existing authorities and institutions (Ehler and Douvere, 2009). 
+Given that the URT is yet to embark on full-scale MSP, the focus for now should be on the authority for planning. The MSP authority should have the mandate and jurisdiction for marine space, and should be recognised by other authorities and agencies, thereby enabling it to lead multi-objective MSP in a transparent, inclusive and participatory manner (UNESCO-IOC/EU, 2021). In the context of the URT, the competent authority could be established either from an existing Ministry, with a mandate for ocean governance, or through the creation of a dedicated inter-governmental committee with a mandate to make the necessary policy decisions, or through the establishment of an entirely new institution specifically mandated to develop and implement MSP.
+Key findings
+Absence of a guiding framework for MSP: This analysis highlights that the URT has a well-established and mature institutional framework to manage the various blue economy sectors. Many government institutions have a sector-specific mandate for marine planning and zoning, and will play an important role in the development of MSP. However, a number of gaps have been identified in the institutional arrangements that will need to be addressed prior to commencing MSP. 
+Notwithstanding existence of the DSFA, and its mandate to manage fisheries resources in the EEZ, at the URT level, no single institution has overall responsibility for ocean affairs. There are also some areas of resource exploitation, notably fisheries and oil and gas extraction, where there are distinctive institutional mandates between Mainland Tanzania and Zanzibar (e.g. Environment & Conservation, Fisheries, Maritime Transport, Oil and Gas, etc.). 
+In light of the importance placed on blue economy development as a longer-term pillar of national development, consideration could be given to establishing a more permanent URT-level institution under the joint coordination of VPO and MoBEF (such as an Ocean Commission or similar), with a broad focus on ocean governance in alignment with the existing dynamics of the UNEP Nairobi Convention Regional Seas Programme on Ocean Governance Strategy, including MSP and blue economy development. However, it is recognised that the establishment of such an entity will take time and resources to achieve. In the absence of such a national entity, therefore, there is a need for a robust, multi-sectoral mechanism (one that reflects the interests of different stakeholders across the URT) to lead and coordinate the development of MSP across the URT. Such an integrated coordination mechanism involving all these key sectors as described above (from both Mainland and Zanzibar) should be formally established and have a clear mandate for a joint implementation formula especially in the EEZ.
+Inadequate capacity to undertake MSP: Within existing institutions, it is recognised that some capacity already exists to support commencement of spatial planning and some elements of marine zoning related to fisheries and conservation. However, it is also recognised that there are likely to be significant gaps in the existing technical capacity that will need to be addressed. Whilst it is assumed that the development of MSP in the URT will be supported by external technical partners, it is also recognised that there is a need to develop the capacity of the URT’s institutions to work on MSP at different levels. The scope of such capacity building will be broad and will not be same across all different stakeholders or organisations both on Mainland and Zanzibar. As such, there is a need to define, early on in the project, what those capacity needs will be.
+SWOT analysis of existing institutional arrangements
+The following Strengths, Weaknesses, Opportunities and Threats (SWOT) analysis highlights some of the key challenges and opportunities with respect to the current institutional arrangements.
+STRENGTHS	WEAKNESSES
+?Well established existing institutions for each of the key marine uses across the URT.
+?Institutional mandates for and experience with land-based spatial planning and marine zoning exists within some institutions.
+?Mechanisms exist at the Union-level (VPO) for multi-agency coordination. 
+?Experience gained through the DSFA for Union-wide planning and management of fisheries in the EEZ.
+?Some capacity already exists for land-use planning and marine planning/zoning such as ICZM with respect to MPAs/MCAs and fisheries co-management.	?Lack of an overarching Union-wide agency with responsibility for ocean governance, the blue economy and MSP especially in the EEZ.
+?Overlapping institutional and sectoral mandates e.g. Environment & Conservation, Maritime Transport, Fisheries, Oil and Gas.
+?MSP is new to the URT and therefore institutional capacity is limited.
+?Inadequate institutional capacity to lead, coordinate and support national-scale MSP.
+OPPORTUNITIES	THREATS
+?Establish a permanent URT-level institution under the VPO - MoBEF coordination with a broad mandate for ocean governance affairs and MSP especially in the EEZ waters.
+?Establish a URT-level Blue Economy/MSP Coordination mechanism under the joint coordination of the VPO and MoBEF.
+?Strengthen and clarify existing mandates for coastal and marine resource governance.
+?Develop technical capacity by working with international and regional development/technical partners.
+?To leverage the support of development partners to build long-term and sustainable technical capacity to support MSP and, more broadly, integrated ocean governance at different levels throughout the URT.	?Institutional mandates for MSP are not clearly defined. 
+?Inability to accelerate joint coordination mechanism towards MSP will hamper progress.
+?Lack of clear coordination roles may lead to overlapping MSP processes.
+Recommended interventions
+Recommendation 1: Define and establish a VPO-MoBEF MSP coordination and implementation mechanism, with well-defined mandates and dedicated technical resources to support it. 
+In the interest of expediting MSP, there is a need to formally establish a coordination mechanism, under the joint coordination mechanism of VPO and the MoBEF. The proposed mechanism can coordinate and lead the overall development of the URT’s maritime space. This could initially take the form of an Inter-Ministerial Steering and Technical Committee, potentially one that might also co-ordinate national blue economy development at URT-level, subject to what might be included in the URT Blue Economy Policy currently under preparation. 
+The following indicative structure is suggested as a model for such a mechanism, although the specific design and function of the coordination mechanism will need to be developed under national stakeholder consultative level to be coordinated by the VPO and MoBEF.
+Key Stakeholders in MSP
+It is clear from the analysis undertaken as part of this study that the authority for MSP planning especially in the EEZ and adjacent waters (subject to future ABNJ agreement) should be a Union-level entity, with broad participation from across the URT and jointly coordinated by VPO and MoBEF. At this stage it is not recommended to establish a new institution, since several existing institutions could undertake this function. The decision as to which model is the most appropriate mechanism for the URT, is a policy decision for Government. Whichever option is chosen, however, the MSP Authority should establish some form of multi-agency coordination and advisory mechanism, in order to structure a participatory MSP governance framework reflective of current policy legal and institutional arrangements on both Mainland and Zanzibar .
+
+
+Multi-Agency coordination approach
+The establishment of a multi-agency coordination mechanism led by the Inter-Ministerial Steering Committee and Inter-Ministerial Technical Committee will be supported by an MSP Core Committee of sectoral experts from Environment, Fisheries & Aquaculture, Maritime Transport, Oil and Gas, Tourism, etc. and would be a logical first step to commence planning for MSP. The purpose of the Core Committee of MSP Experts should be to begin organising the MSP process and bring perspectives and expertise from multiple sectors to coordinate the implementation of MSP from the nearshore environment (MPAs, seaweed, sea cucumber, ports, small scale fishing, etc) to offshore activities (e.g. shipping, deep sea fishing, oil and gas, ABNJ, etc.). The Core Committee of MSP Experts could also ensure that representatives from sectoral authorities and stakeholders are kept aware of the MSP process and what to expect in terms of timelines and the workstreams. 
+To this end, a broad MSP coordination mechanism is suggested; one that partners external expertise with existing internal capacity. The key elements of this mechanism are outlined below, and is illustrated in Figure 18.
+1) MSP Coordination Authority – The MSP Coordination Authority will have the overall and joint responsibility to oversee and coordinate the MSP activities.
+2) Inter-Ministerial Coordination Committee (MCC)  – As a multi-agency process, MSP will involve engagement with the broad range of government agencies including, but not limited to, fisheries, environmental management and conservation, fisheries, tourism, maritime transport, energy, forestry, land-use planning and local government administration. Under the joint coordination of VPO and MoBEF, Ministers (or Permanent Secretaries) representing each of these portfolios (from both Mainland Tanzania and Zanzibar), should be  responsible for overseeing the entire MSP process. The MCC will therefore deal with decisions on user conflict resolution, trade-offs, and other matters relating to MSP.
+3) Core Committee of MSP Experts (CC) – The CC will oversee the day-to-day operation of the planning process. To be effective it is important that the CC has a clear mandate to: (i) undertake day-to-day work on the development of the MSP framework; and (ii) to make decisions relating to technical aspects of marine spatial planning under the general oversight of the MCC. As such, the CC should comprise officials senior enough to be empowered to make these decisions.
+4) Technical Working Groups (TWG) – Despite being driven as a political process, MSP is an inherently technical process involving a broad range of technical skillsets (see Table 16 below). To this end, the CC should be supported by a number of Technical Working Groups (TWGs) focussing on, as a minimum: (i) the development of the marine spatial plan; (ii) the identification, procurement and management of data; (iii) the legal and policy framework need to support the spatial planning framework; and (iv) stakeholder engagement, respectively.  Each of the TWGs would be established by and report to, the PSC, it is anticipated, will be supported, to the extent practicable, by technical experts from development and implementation partners.
+4) Area Planning Teams (APT) – Under the auspices of the broad MSP framework, planning activities should be undertaken within pre-defined planning areas in close coordination with local government authorities and stakeholders. This will require the establishment of planning teams to support area-specific planning activities. 
+ 
+Figure 18: Suggested MSP implementation and support structure
+While Figure 18 provides a broad concept for MSP planning and implementation arrangements for the URT, it should be recognised that any MSP initiative will require significant financial and technical resourcing to support it, not least during the planning stage. These resources are most likely to be delivered under the framework of a dedicated project with project finance.
+This notwithstanding, the Government of the URT will need to put in place a robust governance framework for the blue economy and MSP. The various institutional arrangements outlined in Figure 18 (MSP Authority, Inter-Ministerial Coordination Committee etc.) should be seen as permanent government entities that should be established with a mandate from Cabinet, that will endure well beyond the life cycle of any specific project.
+Recommendation 2: Establish an effective mechanism to oversee MSP co-ordination in areas where Mainland Tanzania and Zanzibar have adjacent jurisdictions and common management interests.
+There are many important ecological, hydrographic and resource-use linkages that connect Mainland Tanzania and Zanzibar across the Pemba and Zanzibar Channels, as well as in territorial waters. These are not least in the form of shared fish stocks, but also marine biodiversity life-cycles, nutrient cycles, tourism, transportation and others. Existing mechanisms of engagement over the management of marine resources in areas where Mainland Tanzania and Zanzibar have adjacent jurisdictions are somewhat ad hoc and will likely not be robust enough for MSP. It will be critical for Mainland and Zanzibar to co-participate even in nearshore MSP processes to ensure alignment and mutual sharing of ideas on such issues. 
+This highlights the need for an effective co-ordination mechanism, and agreed protocols, to provide a platform for Mainland Tanzania and Zanzibar to work collaboratively and effectively at a technical level, in advancing MSP in such areas. An organisational structure for the MSP Co-ordination Authority is proposed to oversee MSP co-ordination as indicated in Figure 19 below. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 19: Proposed organizational structure of the MSP Coordination Authority (light blue on secondment and light green recruited competitively)
+
+Recommendation 3: Undertake an assessment of capacity needs across the key implementing agencies and stakeholders.
+In addition to a well-established land-use planning framework, the URT has extensive experience of implementing ICZM, primarily through the Tanzania Coastal Management Partnership (TCMP), and the Zanzibar ICZM Strategy under the Ministry responsible for Environment, as well as a number of more local scale spatial planning initiatives associated with the development of MPAs/MCAs. United Republic of Tanzania is also party to the ongoing scoping and capacity building processes under the UNEP Nairobi Convention work programme. Furthermore, the University of Dar es Salam, Institute of Marine Sciences (IMS) has also been active in delivering training on MSP at the undergraduate and post graduate levels.  In addition, a number of NGOs are actively working to support conservation planning initiatives, most of which involve some form of zoning and multi-use planning frameworks. 
+This represents a significant existing body of expertise for MSP within the URT, and should be recognised when considering agencies and organisations to support implementation of MSP.
+This notwithstanding, any future MSP initiative must include the further development of technical capacity, not only for MSP but also for integrated ocean governance, for those institutions that will be involved in both development and implementation of MSP. Capacity needs will need to be realistically assessed by the project steering committee, in conjunction with technical partners, and a capacity needs assessment undertaken and implemented based on the identified need. 
+Analysis of capacity needs for MSP, based on a broad review of global experience, indicates that a broad range of  capacity/skills will be needed to support MSP development and implementation in the URT (Table 15 below). Given that MSP has not yet been mainstreamed to date, it is reasonable to assume that much of the capacity outlined in Table 15, particularly at the governmental level, is limited. Although capacity exists to undertake land use and land-based spatial planning, this may not necessarily  be the case in the offshore domain beyond the existing ICZM and MPA/MCAs planning zones.
+
+
+Table 15: Skills and expertise required to support MSP development and implementation in the URT
+MSP Framework Element	MSP Activities	Skills & Knowledge Required	Expertise Required
+Governance	Institutional arrangements	?Coordination & organisation of the various activities & processes. 
+?Review of draft plan to include comments & inputs from consultations with necessary arrangements for approval.	?Organizational leadership.
+?Strategic planning and strategy development.
+?Trade-off analysis and decision-making.
+?Programme/project management, systems thinking, & management processes.
+?Understanding of the MSP process and the benefits and outcomes of MSP for the URT.	?Leadership/executive team familiar with MSP.
+?Strategic planning.
+?Institutional design and management.
+?Relationship management.
+?Stakeholder engagement. 
+?Maritime sector experts (notably shipping, fisheries and offshore petroleum).
+	Policy & legal basis for MSP	?Ensuring coordination, compliance, & enforcement of measures & policies defined by the plan.
+?Reporting & monitoring the progress of the plan & necessary planning reviews.	?Project/organizational management.
+?Sectoral interests & agencies.
+?Monitoring, control and enforcement options.
+?Understanding indicators and the design of monitoring programmes.
+?Statistical & reporting experts, social sciences.	?Monitoring and enforcement experts.
+?Monitoring and enforcement technology experts.
+?Legal expert with international maritime/law of the sea expertise.
+?Environmental monitoring expertise.
+?Auditing and evaluation expertise.
+Drivers & Goals	Drivers for MSP	?2015 Cairo Declaration of the African Union Ministerial Conference on Environment (AMCEN). 
+?African Union Integrated Maritime Strategy 2050
+?African Union Blue Economy Strategy 2019.
+?Western Indian Ocean (WIO) Regional Ocean Governance Strategy.
+?UNECA Blue Economy Policy. 
+?Increased pressure on coastal and marine environment (aquaculture, fisheries, tourism, etc.).
+?CCM Election Manifesto 2020 – 2025.
+?Zanzibar Vision 2050, ZADEP 2021-2026 and the Zanzibar Blue Economy Policy.	?Understanding linkages between global and regional multilateral processes and national needs.
+?Understanding strategic action to be mainstreamed in the national MSP priorities.
+?Implementation of the key actions of the national development instruments.
+?Marine zone planning, research and marine resource management.	?Experts with Ocean Governance Knowledge.
+?Experts with BE/MSP knowledge.
+?Interactions with other plans in the coastal zone, including ICZM plans. 
+	Goals & objectives for MSP	?Define vision & objectives for the planning area based on evidence & engagement.	?Organizational leadership.
+?Strategic planning and strategy development.
+?Understanding of the MSP process and the benefits and outcomes of MSP for the URT.
+?National development planning and policy frameworks.
+?Knowledge of marine habitats and biodiversity and ability to interpret environmental data.
+?Marine users and marine resource management.	?Leadership/executive team familiar with MSP.
+?MSP expertise.
+?Strategic planning.
+?Marine science and environmental management.
+?Maritime sector experts (notably shipping, fisheries and offshore petroleum).
+?Stakeholder engagement.
+Geographic Boundaries & Scope 	Geographic boundaries & planning areas	?Define boundary of planning area based on jurisdictional boundary, patterns of maritime activities & bio-regions.	?Existing jurisdictional boundaries. 
+?Bioregions, ecosystem boundaries and limits of vulnerable marine areas. 	?Legal expert with international maritime/law of the sea and ocean governance/policy expertise.
+?MSP expert.
+?Marine science and environmental management.
+	Limits of jurisdiction, rights & obligations	?Collect & understand existing information & plans available for the planning area.	?Familiarity with ocean governance arrangements.
+?Maritime law/law of the sea.
+?Knowledge of marine habitats and biodiversity and ability to interpret environmental data.
+?Geography and maritime boundary delimitation.
+?Marine users and marine resource management.	?Legal expert with international maritime/law of the sea expertise.
+?Geography/spatial planning.
+?Marine policy expertise with familiarity with regional ocean governance mechanisms.
+?Maritime sector expertise (fisheries; shipping; petroleum; biodiversity & conservation).
+	Future uses to include in MSP	?Issue identification, spatial conflicts, options/alternatives, scenarios.
+?Analyse current & future spatial/temporal trends & requirements.	?Scenario-based planning and analysis.
+?Multi-use planning and conflict identification.
+?GIS, spatial data interpretation and information technologies. 
+?Analysis of environmental conditions environmental analyses (e.g. oceanographers, ecologists, geologists, fishery scientists).
+?Familiarity with regional ocean governance arrangements.
+?Maritime law/law of the sea.
+?Sectoral interests such as fisheries & maritime industries.	?Foresight planning and scenarios.
+?Legal expert with international maritime/law of the sea expertise.
+?Geography/spatial planning.
+?Marine policy expertise with familiarity with regional ocean governance mechanisms.
+?Maritime sector expertise (fisheries; shipping; petroleum; biodiversity & conservation).
+?Marine science and environmental management.
+Data Collection & Management	Availability of key data sets	?Collecting, storing, & managing scientific data & information for the planning area.	?Marine scientific research.
+?Data interoperability.
+?Analysis of environmental conditions environmental analyses (e.g. oceanographers, ecologists, geologists, fishery scientists).
+?Research survey design and data-collection methods.
+?Spatial data expertise and knowledge. 
+?Sectoral interests such as fisheries & maritime industries.	?Maritime sector expertise (fisheries; shipping; petroleum; biodiversity & conservation).
+?Marine science planning and coordination.
+?Data sharing, cataloguing and management (including meta-data standards).
+?GIS specialist.
+?Remote sensing expertise.
+	Data management & mapping 		?Spatial-database architecture, infrastructure and management.
+?Digital thinking, data modelers, specialists in data & information technologies.
+?GIS data analysis and modelling.
+?GIS end-user.	?IT and database specialist.
+?GIS specialist.
+?Data cataloguing and management (including meta-data standards).
+?Remote sensing expertise.
+	Science input	?Developing marine research plans for the URT.
+?Planning and executing marine scientific research activities in the URT.	?Knowledge of marine systems and research disciplines.
+?Knowledge of marine scientific data collection methods and instruments.
+?Understanding the relevance, application and limitations of marine scientific data to MSP decision making.
+?Ability to prioritize data sets for MSP over sectoral research interests.	?Research management and team leadership.
+?Marine science planning and coordination.
+?Marine scientific research expertise (in different disciplines).
+Multi-objective Planning Process	Existing spatial planning processes & tools.	?Measures & alternatives to achieve planning objectives & visions.	?Existing sectoral policies, activity planning, analysis of existing governance system, communication, facilitation, negotiation.
+?Sustainability appraisal, legal & policy expertise, sectoral interests, social scientists, growth strategies & regeneration.	
+	Multi-use stakeholder engagement.	?Identification of stakeholders, when & how to engage them.	?Stakeholder analysis, stakeholder engagement.
+?tools, facilitation, negotiation, communication.
+?Social scientists, specialists in graphics & geographic information systems (GISs), communication experts.	
+
+
+
+5.1.2Policy and legal basis to support MSP implementation
+For MSP to be effective and achieve its defined objectives, it should have a policy/legal basis. This institutionalizes the process, ensures that all parties are bound by a lawfully established plan and provides for consistency of plan implementation and revisions. That said, the precise basis for MSP varies from country to country and no model MSP implementation mechanism exists that would work for every country. 
+In some cases, plans are designed to be ‘guiding’, incorporating elements that are stipulated in existing policy or legal instruments. This, for example, is the approach taken in Seychelles. This often results in a plan being devised in parallel with, or even prior to, the development and enactment of a new law. In the absence of a dedicated law, a country might also find it useful to draft a policy document setting forth its vision for the ocean state and guiding principles for marine spatial planning. 
+In other cases, plans are legally enforceable and the directions are binding: The United Kingdom, for example, opted to create new legislation to provide authority for MSP under a newly established Marine Management Organization, with the mandate to specifically develop marine spatial plans. A similar approach was taken in the 1970s in Australia when new legislation established the Great Barrier Reef Marine Park Authority. In both examples, legal status of MSP outputs is derived from the respective new legislation.
+Box 2: South Africa MSP Legal Framework
+To support implementation of its National Framework for Marine Spatial Planning (see Case Study 1 in Annex C), the Government of South Africa has enacted The Marine Spatial Planning Act, 2018[https://www.dffe.gov.za/sites/default/files/gazetted_notices/msp_developmentofmarinespatialplans_g42444gon647.pdf. ] to provide the legal basis for MSP in South Africa. This brief Act (it includes only 15 sections) provides for inter alia, 
+?The broad principles and criteria to be followed for MSP;
+?The process of planning to be followed by South Africa;
+?The establishment of a comprehensive knowledge and information system to house information in order to develop marine area plans; 
+?The establishment of a legally constituted working group to oversee development of the MSP;
+?Institutionalises stakeholder consultation as a core process in MSP; and
+?The legal requirement for spatial plans to be reviewed every five years.
+The Act does not replace existing, sector-specific legislation and mandates, but rather provides an overarching framework, under which other sectors should plan and operate.
+
+Key findings
+Absence of national-level MSP policy and legislation: The analysis presented in section 4.4. above demonstrates that the URT already has a comprehensive policy framework, which provides clear guidance on the protection of marine ecosystems and the development and management of specific blue economy sectors. Similarly, both the URT Government and Revolutionary Government of Zanzibar have enacted comprehensive and, in most cases, complementary legal frameworks for the key blue economy sectors that are addressed in this report. Many of these legal instruments provide the legal basis for the establishment of spatial management tools (such as Marine Parks, Marine Reserves and Marine Conservation Areas).
+This notwithstanding, despite the development of a national Blue Economy Policy by the Revolutionary Government of Zanzibar and the current draft Blue Economy Strategy being revised by the VPO, the URT currently has no national-level Ocean Governance Policy framework which is very important in framing the development of MSP in the EEZ and adjacent area. Similarly,  there is no overarching legal instrument that addresses ocean affairs generally and MSP specifically in the EEZ and adjacent area, although it is considered that there are existing legal instruments that could be amended to provide for this. In addition, a number of specific gaps have been identified, and corresponding recommendations below, with respect to the governance of certain blue economy sectors.
+SWOT analysis of existing policy and legal arrangements
+The following Strengths, Weaknesses, Opportunities and Threats (SWOT) analysis highlights some of the key challenges and opportunities.
+STRENGTHS	WEAKNESSES
+?A broad based policy and legal framework exists for most of the current blue economy sectors.
+?Generally these instruments provide the legal mechanisms with which to control certain activities.
+?A number of well-tested spatial management tools exist with a legal basis for their implementation and enforcement. 
+?These can provide a sound basis for some aspects of marine zoning under a future MSP framework.
+?The legal frameworks that operate for Mainland Tanzania and Zanzibar are largely complementary.	?There is currently no National MSP-related Policy and legislation that applies to the marine space.
+?Some existing spatially defined management tools lack a clear legal basis in an existing legal instrument and are, therefore, unenforceable.
+?Some existing institutions have overlapping legal jurisdictions.
+OPPORTUNITIES	THREATS
+?To develop a national-level policy framework to define the vision, goals and objectives for the future development of the URT’s marine space.
+?To clearly define the goals and purpose for MSP.
+?To enact legislative amendments to strengthen the existing legal framework for certain blue economy sectors.	?Lack of legal clarity over the mandates of key sectoral institutions vis-à-vis the planning for and management of coastal resources.
+?Inadequate implementation for some spatial management tools pertaining to some critical blue economy sectors.
+
+Recommended interventions
+Recommendation 4: Prepare a National Ocean Governance Policy and Strategy to guide the development and implementation of the blue economy and MSP across the URT.
+An important initial step for MSP development will be the setting of a Vision and Goals for marine spatial planning. As such, the URT should give consideration to the development of an MSP guiding framework for ocean governance/blue economy that explicitly addresses the implementation of MSP process in alignment with existing national arrangements. In addition such a policy could define the institutional and governance arrangements for the development of the URT’s marine space especially in the EEZ waters, thereby providing a clear basis for the development of MSP in alignment with the UNEP Nairobi Convention Regional Seas Programme.
+
+
+
+Recommendation 5: Establish a clear legal basis for MSP in the URT.
+There is a need to ensure that any future MSP has a robust legal framework to support implementation. Whilst there is no requirement for MSP to sit within only one legal instrument, there is a need to ensure that the various implementation and enforcement mechanisms are available within the existing legal framework, and that any gaps and user conflicts are addressed at the outset. 
+As such, the URT should undertake a review of current legal provisions to determine under which existing instrument MSP implementation should best be situated. One suggestion, that would be easier than promulgating a new Act of Parliament would be to draft enabling legislation for MSP in the form of Regulations under the Territorial Sea and Exclusive Economic Zone Act No. 3 of 1989.
+5.2Drivers and Goals
+5.2.1Understanding the Drivers for MSP
+Key findings
+Existence of commitment to Blue economy and MSP: The imperative to undertake a robust process of planning for the maritime waters of the URT may be broadly derived from the national development framework outlined in section 4.3 above. Both the Government of the URT and the Revolutionary Government of Zanzibar have identified the blue economy as a critical element of future development. As noted above, MSP is an explicit enabler for development of the blue economy.
+There are key drivers that emanate from Tanzania’s regional and continental commitments on Blue Economy and Marine Spatial Planning. The AMCEN Cairo Declaration of 2015 provides a clarion call for the AU member states to integrate Blue Economy and MSP into their respective national development plans. The AU Blue Economy Strategy of 2019, the AU Africa Integrated Maritime Strategy 2050, Lomé Charter for Maritime Security and the UNEP Nairobi Convention Ocean Governance Strategy are some of the key examples of the basis for Tanzania’s drive towards Blue Economy and MSP processes.  Zanzibar Vision 2050, Zanzibar Development Plan 2021 – 2026 and the Blue Economy Policy of 2022 also provide a strong basis or Zanzibar’s ongoing Blue Economy and MSP dynamics, being implemented by MoBEF. 
+The primary driver for the development of a spatial management framework, however, comes from the Manifesto of the ruling party. Section 27 of the Manifesto of the Government of the URT states: 
+The Chama cha Mapinduzi recognizes the opportunities available in the blue water economy, including seas, rivers, and lakes as well as the resources in it. In taking advantage of these opportunities, over the next five years, the Chama cha Mapinduzi will direct the Government to do the following:
+b)	Strengthen institutional frameworks for coordinating and overseeing the development of blue water resources; and 
+d)	Develop a strategy that will enable the Nation to benefit from the water resources economy.
+The Manifesto also states that the government will strengthen the fishing industry through, inter alia, “strengthening of 18 Marine Protected Areas and Reservoir Areas to ensure that damaged fish breeding grounds and pastures are restored to their original condition.”
+The recently released National Environmental Master Plan for Strategic Intervention (2022-2032) also make specific reference to the need for MSP. The plan includes, as one of its strategic goals “Ensure the sustainable management and conservation of coastal and marine ecosystems.” Included in the interventions designed to achieve this goal as the target to “Develop and implement localised Marine Spatial plans by 2032” (Office of the Vice President, 2022).   
+Similarly, Section 162 of the Manifesto of the Revolutionary Government of Zanzibar notes that:
+Zanzibar is surrounded by the Indian Ocean and is close to the coast of eastern Africa, so it has great opportunities to use its territorial sea, its geographical position, and the resources of the sea to accelerate its economic development. To better coordinate the use of the sea and its resources in building the Blue Economy, CCM will direct Revolutionary Government of Zanzibar do the following things: 
+a)	Prepare a specific plan for the use of marine areas (Marine Spatial Plan) and start its implementation. 
+b)	Building a strategic infrastructure to make Zanzibar a special centre for trade, and transportation (maritime transportation).
+c)	To be a regional centre for fishing and marine products.
+d)	Using marine products including fish, seaweed, and salt as industrial development catalyst.
+e)	Using the coastal areas and beaches for:
+i.	Exploration and extraction of oil and natural gas.
+ii.	To further develop sea tourism, beaches, etc.
+f)	Establishing a better institutional system to coordinate economic development of blue resources.
+In addition to these explicit manifesto pledges, a broad range of other drivers can also be identified which support, or even necessitate, the development of a MSP framework including, but not necessarily limited to:
+•Existing conflicts between seaweed farmers and other marine users (e.g. artisanal fishing and coastal tourism);
+•The development of new maritime infrastructure that will result in changes to existing sea-used patterns;
+•The increasing number of NGO-supported site-specific conservation planning initiatives that are currently undertaken in the absence of an overall planning framework;
+•Increasing bilateral support, from international development partners, to develop the URT’s blue economy that have an expectation that MSP will be one of the enablers to support blue growth.
+Thus it can clearly be seen that the drivers for MSP derive clearly from the URT’s strategic national development priorities and the explicit understanding of the importance of marine ecosystem services in supporting achievement to those priorities.
+5.2.2Goals and objectives for MSP in the URT
+The most effective spatial plans are those developed in response to clearly stated goals and objectives. During the MSP process, these goals and objectives will give rise to narrower and more specific outcomes and targets that will reflect the different types of zones adopted for the URT’s marine space and the management objectives for each type of zone. 
+Key findings
+Need for clear MSP goals and Ocean governance: Notwithstanding the broad policy objectives outlined above, there needs to be clearly articulated goals for MSP across the URT and, a joint development of a dedicated national Ocean Governance Policy with MSP to provide a clear policy guidance on the matter of ocean affairs/ocean governance. For example, Zanzibar, has clearly articulated a Vision and a strategy for the blue economy and has clearly identified MSP as one tool to achieve the strategic objectives.
+
+
+
+Recommended interventions
+Recommendation 6: Define and prioritize goals and objectives for MSP through a collaborative ‘Future Scenario Planning’ process.
+As a precursor to the commencement of MSP, the URT should bring together relevant stakeholders to explore a range of possible future scenarios for the development of the URT’s maritime space and to determine, if possible, the preferred development path (the Vision) and the desired development Goals and Objectives for the URT’s marine space. Once defined, this Vision will inform the marine spatial planning activity which will, inter alia, define a series of critical paths towards the development of a planning framework that will support realisation of the preferred scenario. Moreover, the outcome of this process can also be used to inform the development of the national policy framework as outlined in Recommendation 4 above.
+Scenario-based planning
+For any maritime area, there will be a number of possible alternative futures. Each of these will reflect different sectoral priorities and desired future states. An effective way to achieve this is through the application of ‘scenarios’, that allow users to devise and analyse a range of plausible futures, then filter strategic decisions through these scenarios to ensure that policy decision achieve the desired development objectives (McGowan et al. 2019). 
+Scenarios illustrate plausible futures, usually extrapolated from current trends or based on radical or unexpected (but plausible) events. They provide policy makers with a tool for strategic planning, assessing the robustness of strategies and policy approaches in different situations. Scenario-based planning is therefore increasingly being used to define future goals and objectives for MSP development (see for example Figure 20). Whether formal scenario-based planning and trade-off analysis have been used previously in the URT for planning is unclear but it is considered unlikely that it has been used in a rigorous institutional setting. 
+In the context of the URT, scenario-based planning is, therefore, a useful tool for analysing the potential regulatory opportunities and how different stakeholders may react to planning decisions, ensuring there are more resilient responses to future uncertainties.
+
+
+Figure 20: Examples of desired future conditions under an integrated management scenario for the Gulf of Guayaquil. Source: UNESCO-IOC/EU (2021).
+5.3Geographic Boundaries and Scope
+5.3.1Geographic boundaries and planning areas
+Key findings
+Well-defined boundaries for planning area: The geographic scope for MSP in the URT should extend from the coastline to the outer limits of the EEZ; including all of the URT’s internal waters, the territorial sea, and the EEZ, as declared under the Territorial Sea and Exclusive Economic Zone Act, 1989. Furthermore, given that the Government is awaiting the outcome of recommendations on its application for an extension to its continental shelf, arguably, any future MSP could also include areas of continental shelf beyond the limits of the EEZ.
+Recognising the potential impact of land-based coastal developments on the marine environment, such as in the ports, mining and tourism sectors, there could also be a case to include the littoral zone in MSP.  Alternatively, MSP might need to be linked to other sectoral or district land-use planning frameworks. These will be decisions to be addressed by the appropriate authorities as MSP gets under way in the URT.
+An outstanding issue that should be resolved is whether MSP should include the area of extended continental shelf that is the subject of the UN CLCS submission. Arguable, once the URT’s application for an area of extended continental shelf has been concluded, those resources that are considered as part of the natural resources of the URT’s continental shelf, will also fall under the exclusive jurisdiction of the URT. As such, the potential exists for the development of new activities beyond the EEZ.
+Recommended interventions
+Recommendation 7: Prepare a systematic framework of planning areas that recognises: (a) the different levels of jurisdiction involved in planning and management of the URT’s maritime space: and (b) the level of knowledge and understanding available to support planning and decision making across different parts of the URT’s maritime space.
+Whilst there is a need to assess activities throughout the entire EEZ, it is clear that most activities, and most knowledge, is focussed in the relatively narrow coastal zone. Inadequate information available for offshore waters makes detailed planning more difficult, and it is clear that those areas that are subject to greater activity, and therefore conflict, warrant greater scrutiny.
+Any MSP initiative should therefore be undertaken at different scales. This will necessitate to development of a network of ‘planning areas’ at different levels that reflects the ecological and socio-economic dependencies that exist in different areas of the URT.
+Recommendation 8: Undertake a prioritisation of planning areas such that the initial focus for MSP should be on those coastal waters that support the most activities and have the most user conflicts. 
+It will not be possible to undertake MSP for the entire area of the URT’s marine space at the same time. An approach that prioritises and stages different areas is suggested as a way to effectively manage this issue. The focus should be on those areas with the highest levels of human activity and also where information is readily available to support MSP. In this way valuable experience can be gained through initial pilot projects that will assist with capacity building that can then be more broadly applied to other areas of the URT’s marine space.
+Approach to defining planning areas
+It is not appropriate for this study to propose or prescribe actual planning areas for MSP. That will need to be assessed and decided on as part of the MSP process itself. However, it is worth giving some consideration to how the definition of planning areas could be undertaken. As such this report suggests an indicative conceptual framework to assist the process of defining planning areas for the purpose of MSP. 
+1)	Scope of analysis needs to be broader than scope of actual MSP planning in a given area:
+Any defined marine planning area is typically affected by human activities that take place beyond the defined boundaries of the planning area. This fact illustrates the importance of drawing the boundaries of analysis more broadly than the boundaries of management. This also supports Recommendation #2 herein, which highlights the importance of Mainland and Zanzibar participating in each other’s nearshore MSP, especially in adjacent marine areas, since there are always wider connectivities and impacts from those neighbouring areas to be taken into consideration.
+2)	Resist the temptation to undertake MSP according to administrative boundaries:
+It can be tempting to take administrative boundaries (regions, districts, villages/shehias) as MSP planning units as it can simplify logistics and reduce costs. But MSP should be driven by many other more important factors including patterns of resource-use, oceanography and hydrography, distribution of habitats and species, and so on. It is important that spatial planning is driven by these and not by arbitrary institutional paradigms.
+This implies that MSP analysis and planning processes should ideally start at the broadest possible scale (i.e. all URT maritime waters), in order to identify and analyse broader scale influences and uses of marine space. Thereafter, the process can systematically zoom in to increasingly finer bio-physical, ecological or management scales as appropriate. Such an approach is illustrated in Figure 21 below.
+Whilst it is beyond the scope of this analysis to prescribe specific planning areas, Table 16 below illustrates a possible framework that the Government could consider. This approach recognises the important ecological connectivities that exist throughout the URT’s maritime waters.
+
+
+Figure 21: Schematic illustration of scaled approach to MSP 
+
+Table 16: Summary of possible seascapes for level 2 planning - for indicative purpose only
+SEASCAPES	DESCRIPTION
+1	Tanga-Pemba
+Includes:
+Pemba Island
+Pemba Channel
+Mkinga District
+Tanga City
+Muheza District
+Tanga Coelacanth Marine Park	Comprising part of a transboundary area with Kenya to the north, the seascape is divided down the centre by the relatively deep (800 m) Pemba Channel. Upwelling to the northern end of the channel generates nutrients for rich pelagic fisheries. On either side are extensive coral reef habitats.
+The entire west coast of Pemba Island is included in the 825 km2 Pemba Channel Conservation Area (PECCA). Within PECCA lies Misali Island, previously gazetted as a small no-take marine reserve. 
+The Mainland side includes Tanga Coelacanth Marine Park (TACMP) covering the 522 km2, and 4 small marine reserves. 
+2	Zanzibar Channel
+Includes:
+Pangani District
+Unguja Island. 
+Bagamoyo District
+Dar es Salaam	The hydrography of the relatively shallow (~50 m) Zanzibar Channel, receiving substantial nutrient inputs from the Pangani, Wami and Ruvu Rivers, creates a mostly soft sediment marine area noted for productive small pelagic fisheries.  
+The nutrient-poor Zanzibar side of the channel has a complex of small islands and patch reefs, and the east coast of Unguja Island is bounded by fringing reef. Unguja is almost entirely surrounded by marine conservation areas including: Tumbatu (TUMCA) 163 km2; Changu-Bawe (CHABAMCA) 118 km2; Mnemba Island-Chwaka Bay (MIMCA) 337 km2; and Menai Bay (MBCA) 717 km2 . Within MBCA lies Chumbe Island with a no-take reserve managed through a tourism private sector concession. The Mainland side includes Sadaani National Park marine area and 7 small islands off Dar es Salaam gazetted as marine reserves. 
+3	Rufiji-Mafia-Kilwa
+Includes:
+Mkuranga District
+Kibiti District
+Rufiji Delta
+Mafia Island
+Mafia Island MP
+N Kilwa & Songosongo 	A globally important seascape containing a variety of geomorphological features with high habitat complexity and the highest species diversity in Tanzanian marine waters. Dominated by the outflow of the Rufiji Delta, the area exhibits high fisheries production and related marine megafauna. The more nutrient-scarce east coast of Mafia Island has various reef habitats. An existing Ramsar site covers 4,850 km2 and an application is in process for Man & Biosphere (MAB) Reserve designation. The area includes Mafia Island Marine Park (522 km2) and 3 small marine reserves. Waters adjacent to Mkuranga District to the north, also under the hydrological influence of the Rufiji Delta, can also be considered part of this area.
+4	Mtwara/Lindi Districts.
+Mainland	The area includes the Mnazi Bay-Ruvuma Estuary Marine Park (650km2) adjacent to the Mozambique border. The area  has a mosaic of mangrove and coral reef habitats with similar species richness to Rufiji-Mafia-Kilwa, and is also rich in pelagic fisheries having a very narrow continental shelf. As such, the area has significant biodiversity and transboundary importance.
+5
+	Territorial Sea 
+Includes:
+Latham Island
+	Extending 12 nm out from the baseline, the territorial sea encompasses an area of ~16,000 km2. It is important for better equipped artisanal fishers targeting pelagic resources; territorial waters being closed to industrial vessels. 
+Located ~40 nm offshore from Kigamboni District and 35 nm from Kizimkazi (Zanzibar) Latham Island is a small oceanic atoll island of less than 3 ha, but a regionally important breeding site for oceanic seabirds. Surrounded by depths of up to 2000 m, upwelling around the island make it important for medium and large pelagics. 
+6	EEZ	Extending from the 12 nm limit of the territorial sea out to 200 nm from the baseline, the EEZ encompasses a marine area of about 223 000 km2. EEZ waters are largely unresearched and undocumented but are important for offshore industrial fishing for tuna and tuna-like species, which are regulated by the Deep Sea Fishing Authority (DSFA), a URT level institution.
+
+5.3.2Jurisdictional limits
+Broadly speaking, the limits of a State’s jurisdiction to regulate and manage activities undertaken in its marine space are defined under UNCLOS, and are specific to the maritime zone in which the activity takes place. The further one moves away from the coastline, the less authority a coastal State has to regulate activities. In the specific case of the extended continental shelf, whilst the URT may exercise sovereign rights over the continental shelf, for the purposes of exploring and exploiting its natural resources, these rights do not extend to or affect the legal status of the super-adjacent waters (i.e. the overlying water column). 
+Moreover, in addition to the organs of central government, the URT has a long history of devolved decision-making, particularly with regard to the management of natural resources, as reflected in the well-defined system of local government authorities (LGA). Among other functions, LGAs are responsible for licensing and management of artisanal fishing activities, and are also involved in overall management of marine parks/reserves and marine conservation areas. 
+These jurisdictional limitations have implications for the scope, content and application of any spatial management framework and will, therefore, need to be taken account of in any future MSP framework and that all parties fully understand the extent of their rights and obligations under the subsequent planning framework.
+Key findings
+Need for planning for common and shared resources in the EEZ and beyond: Whilst the URT Government exercises sovereign rights over the resources of the EEZ, Mainland Tanzania and Zanzibar jointly manage a range of activities in their respective sectoral jurisdictions (Environment, Fisheries, Aquaculture, Tourism, Maritime transport, Energy, Oil and Gas, etc.). In the specific case of the extended continental shelf, whilst the URT may exercise sovereign rights over the continental shelf, for the purposes of exploring and exploiting its natural resources, these rights do not extend to or affect the legal status of the super-adjacent waters (i.e. the overlying water column). In this regard, the URT needs to consider starting the subsequent process of legislation for the utilization of the continental shelf, or the exploitation of its natural resources, in compliance with the UNCLOS.
+Recommended interventions
+Recommendation 9: Undertake a review of the Territorial Sea and Exclusive Economic Zone Act as part of the MSP process.
+Despite having sovereign rights over the seabed resources of the EEZ, and having submitted information on the limits of the continental shelf beyond 200 nm, the URT has not specifically legislated the continental shelf or its exploitation, in anticipation of the outcome of the application process at the CLCS. Notwithstanding the current status, the Government of the URT should start preparing the process of amending the Territorial Sea and Exclusive Economic Zone Act to reflect the URT’s authority over the seabed resources of the extended continental shelf beyond the 200 nm limits of the EEZ.
+Define jurisdictional boundaries between Local Government Authorities and Central Government: The current governance arrangements between the national and local government entities is also a matter that should be explored since LGAs do have some responsibilities with respect to environmental services connected to the economic, social and environmental activities of the nearshore fisheries and aquaculture and other marine resource-related activities, which have the potential to significantly influence the quality of the marine environment. Therefore needs to be a practical agreement over roles and responsibilities, vis-à-vis MSP, between national government agencies and their LGA counterparts.
+Recommendation 10: Enhance Inter-sectoral collaboration with respect to internal waters and determine the extent of MSP for local-level spatial plans.
+It must be recognised that, for the purposes of MSP in inshore and coastal waters, there are multiple sectoral institutional mandates, including LGAs, that will all play a critical role in MSP alongside communities themselves. Many activities undertaken in nearshore and coastal waters within Mainland Tanzania and Zanzibar are conducted by several actors such as Environment, Fisheries, Aquaculture, Tourism, Maritime Transport, Energy, Oil and Gas, and local government authorities’ areas of jurisdiction. As such, there is a need to clarify and reflect in any future MSP initiative, the areas of jurisdiction and the relevant functions, powers and duties in regard to activities in intertidal and nearshore marine areas.
+5.3.3Future uses to be included in MSP
+The development of a sustainable blue economy provides opportunities, not only to further develop existing activities and sectors, but to explore new ocean-based opportunities. If the URT is to fully embrace the concept of the blue economy, there is a need to undertake a broad assessment of the future potential development opportunities that the blue economy presents (for example marine renewable energy and offshore aquaculture) with a view to ensuring that any MSP initiative can take account of, and remain adaptive to, new and emerging uses of the URT’s marine space that so far may not have been anticipated.
+Key findings
+Need for Planning for existing and future uses of URT’s marine space with consideration of SEA: Notwithstanding that Mainland Tanzania and Zanzibar have respectively identified future priorities for development of the blue economy, the full scope of activities that either are, or are planned to be undertaken, must be addressed in the MSP. As such, the following activities have been identified as potentially being ‘in-scope’ for the future development of the URT’s marine space and the MSP framework. This is not to suggest that all, or even any, of these activities and uses will be pursued, but rather that planning for the future development of the URT should acknowledge these as potential future uses. It should also be recognised that the priorities afforded to each of the following will differ between Mainland Tanzania and Zanzibar.
+•Marine biodiversity conservation and climate change adaptation
+•Marine capture fisheries and aquaculture including seaweed cultivation
+•Ports and shipping
+•Offshore petroleum exploration and production
+•Coastal and marine tourism
+•Subsea cables – both electric transmission and telecommunications
+•Coastal salt production
+•Monitoring, control and surveillance
+Many of these activities have analogous spatial management measures associated with them (Annex E).
+Recommended interventions
+Recommendation 11: Define the scope of existing and future uses to be included in MSP.
+Through existing and ongoing preparation of their respective blue economy policies, the URT Government and the Revolutionary Government of Zanzibar have begun to identify priorities for blue economy development. It is recommended such process be further elaborated, during MSP preparation, so as to identify the broadest possible development opportunities and to plan for, and catalyse, their potential development through MSP. 
+Related to the above, given the previous experience with ICZM, and the obvious linkages between ICZM and MSP, there is also a need to include spatial planning of some coastal land-based activities that impact the nearshore marine environment, as part of MSP. An example might be farming practices in the Rufiji Delta, or tourism activities along the Zanzibar coast. As such, MSP does not necessarily end at the high tide mark or the beach. Part of the MSP process will be to identify critical land-based activities affecting MSP and to consider how they can be included in MSP, or otherwise how to address them through related land-based or sectoral planning frameworks. 
+Recommendation 12: Prepare a Strategic Environmental Assessment (SEA) for MSP.
+It is noted that a number of integrated port, cold storage and processing plants projects are underway or planned both on the Mainland and in Zanzibar. These value-addition developments bringing in maritime and fisheries transformation drive, and which are part of the Blue Economy agenda for Tanzania, are likely to result in significant changes to local areal planning comprising fisheries, shipping, aquaculture, tourism, oil and gas exploration, etc. These will in effect transform movement in and around the URT’s internal and coastal waters. This, coupled with the offshore petroleum activities and the Government’s interest in further developing offshore fisheries, there is considerable scope for both user conflict and cumulative impacts on the marine environment. 
+To this end, consideration should be given to undertaking a Strategic Environmental Assessment (SEA) as a precursor to MSP. In particular such a SEA should assess the implications of projected future increases in blue economy investment opportunities especially on the integrated shipping-fisheries interactions with other users of the marine environment. 
+Whilst it is recognised that SEAs have been carried out for individual sectors, to date, no comprehensive SEA assessment of MSP has been conducted for the broad range of activities undertaken across the entirety of URT’s maritime waters or their individual and cumulative impacts. Such an assessment could be achieved through the application of strategic environmental assessment tools. This SEA process should be linked with the scenario-based planning exercise outlined in Recommendation 6 above. These two processes, when combined, will then provide some overarching parameters for MSP, including guiding principles for the MSP initiative.
+It should be noted that there is no need to wait until the SEA has been completed to embark on the MSP initiative. The two activities can be undertaken concurrently given the timeframes involved in MSP and that MSP is an iterative process.
+5.3.4Application of MSP to Freshwater Bodies
+Key findings
+Need for MSP in fresh water bodies:  As a result of the stakeholder consultations undertaken as part of this analysis, it has been identified that, in line with the working definition of the blue economy developed by the African Union, there is a general consensus that any future MSP project should include inland freshwater bodies.
+Broadly speaking, the tools for MSP could be applied to any water body. However, there are likely to be differences in the implementation of MSP for marine waters as compared with freshwater bodies, due to the different legal frameworks that govern these two resource types. Since this issue was not included in the ToR for the project, but was only raised during the data gathering phase, it has not been possible to include those institutional and legal frameworks that apply to fresh water bodies. Nonetheless, it is recommended that further analysis be undertaken to ensure that freshwater bodies are comprehensively included in the final MSP framework to be developed by the URT.
+Recommended interventions
+Recommendation 13: Undertake an additional scoping study analysis that assesses the application of MSP to the freshwater bodies of the URT.
+The definition of the blue economy for the URT includes not only marine waters but also the large freshwater bodies, that support 85% of Mainland Tanzania’s capture fish production. 
+Further discussions are required to determine future MSP project to be extended to cover inland freshwater bodies. This means that a further legal, policy and institutional analysis may be required to cover those aspects that are not included in this report, since many of those freshwater bodies are the subject of complex multilateral agreements and administrative arrangements.
+5.4Data Collection & Management
+A crucial step in the MSP process is gathering existing knowledge and data concerning the current conditions of the marine environment and human interactions and impacts. The type of data to be collated and mapped will need to be, as far as possible, up-to-date, objective, reliable, relevant and comparable. Over the course of any MSP initiative, data and information will need to be collected from a wide range of sources, including scientific literature, expert scientific opinion or advice, international and national sources, websites, local and traditional knowledge and direct field measurements. Accessing information may require certain online processes, protocols and agreements. It is useful, during this step, to focus upon gathering spatial data (World Bank, 2022a). 
+5.4.1Availability of key marine spatial datasets
+Since MSP is a continuous process, a fundamental goal for developing any MSP project should be to begin with the data that is available and to then increase the complexity and accuracy of the data as requirements become better understood. Typically, for MSP, data is divided thematically, such as illustrated in Annex F. 
+Since there is no universally applied data schema for MSP, it is necessary to define a schema that is most appropriate for the specific MSP process being undertaken. Figure 22 below illustrates a suggested schema of themes and data sets that are considered relevant for the initial stages of the MSP process. 
+
+Figure 22: Suggested data schema for the MSP framework
+Key findings
+Data gaps, incompatibility and inadequate quality: As part of this assignment, the project team undertook an initial audit of the availability of key data sets in Mainland Tanzania and Zanzibar. The results of this are summarised in Annex G. It should be stressed that this initial audit is a starting point and a more comprehensive survey of existing data and data needs will be a fundamental requirement of any future MSP initiative. 
+Nonetheless, the results of this preliminary audit are encouraging. Overall, it can be seen that, at a broad level, marine spatial datasets already exist for many of the data themes identified as necessary to support MSP. These will form a good basis with which to commence MSP. 
+However, it is also noted that the existing data is widely dispersed across a range of different agencies and that many core datasets (for example MPAs) do not exist in a single consolidated form, but rather are fragmented across different agencies with different degrees of accuracy. As a result, these data are often recreated for the purpose of specific projects which is both costly in terms of time and effort and may result in errors in the data being transposed. 
+Despite the acknowledgement that some marine spatial datasets already exist, some critical data gaps have also been identified that should be filled to comprehensively undertake MSP at an EEZ-wide scale. Furthermore, the survey has identified numerous issues with the fidelity and quality of existing datasets that will require resolving prior to undertaking MSP. In this regard, it is recommended that a number of steps be taken now focused on development of an appropriate spatial information framework to support MSP. 
+Recommended interventions
+Recommendation 14: Collate and map existing baseline data and assess future data needs and gaps to support MSP.
+Mapping the marine resources and uses of an area by consolidating existing data and information allows planners and decision-makers to consider the cumulative effect of maritime industries on key features that may be particularly sensitive. In so doing, it provides a spatial understanding of conflicts and potential compatibilities of operations with marine ecosystems and their values. 
+Whilst it is considered that sufficient information exists to inform the initial stages of MSP, the information base will need to be improved in terms of accuracy and coverage. As such, as part of any future MSP initiative, a critical need will be to prepare a comprehensive marine spatial data needs assessment and gap analysis including, but not necessarily limited to:
+?Define critical data needs for MSP based on international experience and the MSP Framework
+?Undertake a comprehensive audit of existing marine spatial data sets held across the URT including maritime zones.
+?Identify critical data needs and gaps
+Recommendation 15: Develop a comprehensive data capture/procurement programme.
+Ultimately, the outcome from Recommendation 14 above should lead to the identification and prioritisation of gaps and data needs that will inform a future process to capture new data. To this end, the following critical activities should be undertaken:
+–Identify, compile, merge and verify all existing data sets relating to the distribution of key marine habitats and species distribution/abundance
+–Identify, compile, merge and verify all existing data sets relating to the distribution and abundance of key commercial fish stocks – both inshore and offshore
+–Develop a detailed seabed habitat map of the entire coast and EEZ
+–Prepare a definitive and authoritative dataset of all existing MPAs boundaries and spatial planning tools (including CFMAs, CMA Zoning etc.)
+–Identify and map all traditional fishing grounds
+–Identify and map all coastal tourism use zones
+–Develop a representative spatial data set of international shipping movements throughout the URT’s internal waters, territorial sea and EEZ (AIS data)
+5.4.2Data management and access
+Data availability and data accessibility are “two sides of the same coin” and whilst much data is available, not all is accessible in a form that would support MSP. Existing spatial data is often fragmented and distributed across multiple data holders. Furthermore, much of the data exists in formats that are inaccessible to decision makers and data holders are often reluctant to share data (although it is acknowledged that data was provided to the project team during the preparation of this report).
+Experience from overseas indicates that when this happens, agencies often create their own mechanisms for accessing data. This leads to duplication of effort, non-standardisation of data and hampers data sharing. Multi-agency approaches to addressing data inaccessibility also represents a significant waste of resources. A far better approach would be to establish a single, centrally managed data clearing house and portal.
+Key findings
+Absence of centralized spatial data clearing mechanism: Notwithstanding the availability of the above-mentioned datasets, it is noted that the URT does not currently possess a centralised spatial data clearing mechanism, that facilitates access to marine spatial data. Numerous institutions hold spatial data and a large number of NGOs (in particular) are involved in research and conservation projects that collect data. However, very little data appears to be openly shared. Every effort should therefore be made to improve data sharing among existing data holders. 
+Several attempts have been made to address the issue of spatial data sharing and management across the URT (Lubida, 2019). For example:
+•With support from the French National Institute of Geographical and Forestry Information (IGN FI), the Integrated Land Management Information System (ILMIS)[ 	https://ilmis.lands.go.tz/en ] project was established to replace the previous systems and addressing functions of the land sector, delivering tools for handling land management functions such as Cadastral Surveying, land delivery services and Town Planning. 
+The system was designed to harmonize and share land data and also to track efficiency and transparency in delivering land administration services. The project included the conversion of 6.5 million pages of paper documents, 18,000 maps and their resulting vectorized parcels integrated with 50,000 titles. 
+•With support from the Finnish Government and coordinated by the Finnish Environment Institute (SYKE) the National Spatial Data Infrastructure for Integrated Coastal and Marine Spatial Planning Project[ 	https://www.syke.fi/en-US/Research__Development/Research_and_development_projects/Projects/National_Spatial_Data_Infrastructure_for_Integrated_Coastal_and_Marine_Spatial_Planning_ZANSDI ] was established to support the Zanzibar Lands Commission to improve utilization of geospatial information in spatial planning and management in Zanzibar. The project supported capacity building in Zanzibar to use National Spatial Data Infrastructure (NSDI) effectively in integrated coastal and marine spatial planning.
+•With support from the Norwegian Environmental Council (NEA), the Tanzania Environmental Information Network (EIN) was a project to support the National Environmental Management Council (NEMC) to establish a data foundation needed to support country-level sustainable development in the area of environmental aspects. The project is an initiative by African EIN to strengthen the capacity of African countries to use good quality information to guide informed decisions and manage assets on sustainable basis.
+Despite the relevance of these initiatives, none of them have left any lasting infrastructure legacy, and no Spatial Data Infrastructure (SDI) currently exists within the URT. That notwithstanding, some agencies do have significant existing spatial data analysis and management capabilities. In Mainland Tanzania, the greatest capacity is at the Ministry of Lands, Housing and Human Settlement Development’s Survey and Mapping Department.
+It is also noted that there are currently several open source data portals for spatial data in the URT:
+Tanzania Sensitivity Atlas (TanSea):[ 	https://ims.udsm.ac.tz/tansea/ ] TanSea was developed during 2010-13 as the first version of the GIS-based sensitivity mapping in Tanzania marine waters and is hosted by IMS, which is also the Tanzania National Oceanographic Data Centre (TzNODC). Development of TanSea was driven by the need to develop oil-spill contingency plans as a precursor to oil and gas exploration in coastal and marine areas, and was initially funded by a consortium of international oil companies (Statoil, BG and Petrobras) as a public-access platform. TanSea currently does not currently support real-time or user-filtered data visualisation, or data downloading, what is available on the portal is only a flattened map showing all existing data layers. Data is however available from IMS on request.
+Zanzibar Social Environmental Atlas for Coastal and Marine Areas (ZanSea):[ 	https://www.suza.ac.tz/zansea-website/index.php. ] ZanSea was developed as part of the Spatial Data Infrastructure (SDI) under the Zanzibar Social and Environmental Atlas project, supported by the Norwegian state oil company (formerly Statoil, now Equinor). ZanSea is managed by the State University of Zanzibar (SUZA) and was functional from 2015-19 via a GeoNode hosted on servers in France. At the time of writing, the system was not operational and underlying data was not available at SUZA.
+Both of these portals could be developed further to provide a national marine spatial data visualisation and sharing capability that acts as a single repository for all URT’s marine spatial data. 
+More broadly, a number of other platforms may be worth exploring as options to host national marine spatial data sets:
+The African Marine Atlas:[ 	http://www.africanmarineatlas.org. ] The African Marine Atlas developed by the Ocean Data and Information Network for Africa (ODINAFRICA) is hosted by the UNESCO-IOC Project Office for International Oceanographic Data and Information Exchange (IODE) in Ostend, Belgium. It is described as being able to provide substantial maps, images, data and information to coastal resource managers, planners and decision-makers from various administrative institutions and specialized agencies in Africa. However, at this stage it is not clear what, if any, data the system supports. Given the support being provided for this platform, however, it should be explored further as a possible tool to support MSP.
+Nairobi Convention Clearinghouse and Information Sharing System:[ 	http://web.unep.org/nairobiconvention/nairobi-convention-clearinghouse-and-information-sharing-system ] Hosted by the Secretariat of the Nairobi Convention/UNEP to which the URT is a party. The stated objectives of this initiative are: (1) development of a comprehensive national data inventory with common standards and built-in functions; (2) provision of basic, selected and/or critical datasets by participating institutions; and (3) internet data dissemination and automation of the data to information and information to knowledge process.
+GeoNode: GeoNode is an open source, geospatial content management system, a platform for the management and publication of geospatial data. A key feature of GeoNode is that it includes a web-based interface to allow simple discovery and management of spatial data and metadata as well as interactive mapping. The relationships between data, metadata and documents are maintained to ensure that it is easy for end users to discover and access data resources.
+GeoNode is a highly effective tool for sharing and viewing data from a wide range of sources since it allows registered users for easily upload geospatial data in a range of different formats. Datasets in the system can be shared publicly or restricted to allow access to only specific users. Social features like user profiles and commenting and rating systems allow for the development of communities around each platform to facilitate the use, management, and quality control of the data the GeoNode instance contains.
+GeoNode has been widely used in the WIO region as a platform to collate, manage and share data relating to the marine environment. Notable examples include:
+•Marine Spatial Atlas for the Western Indian Ocean (MASPIO Geo-Portal):[ 	http://maspawio.net. ] hosted by CORDIO (EA) and IUCN which provides access to a broad range of marine spatial data with coverage across the WIO.
+•Integrated Coastal Biodiversity Information Management System (ICBIMS):[ 	http://icbims.kmfri.co.ke. ] This system is hosted by Kenya Marine and Fisheries Research Institute (KEMFRI) in Mombasa.  At this stage, ICBIMS only supports spatial data and provides a data visualisation tool, although only one dataset can be viewed at a time. Data layers can be downloaded individually in different data formats.
+•Mauritius Ocean Observatory E-platform:[ 	https://gococeanobservatory.govmu.org/] The Ocean Observatory platform is designed to support the Marine Spatial Planning initiative of the Republic of Mauritius by providing a platform to collect, store, organise and provide access to spatio-temporal data relevant to ocean exploration and development.
+SeaSketch: SeaSketch[ 	https://www.seasketch.org/home.html. ] is a custom-built online mapping platform that has been used for MSP in the United States, Canada, New Zealand, Barbuda, Montserrat, Curac¸ao, the Galapagos Islands and Indonesia. The system, facilitates iterative, collaborative design of spatial management areas, includes built in analytical tools. Configured to reflect the planning goals and objectives specific to a given MSP initiative, SeaSketch offers users the ability to view spatial information about the distribution of human activities, natural resources and infrastructure in and around the ocean. Then, using this information as a guide, users can sketch prospective ocean zones and analyse whether they meet science and policy guidelines for ecosystem protection, economic impacts to ocean users and their relative trade-offs. 
+A key feature of SeaSketch is that it can be deployed to conduct crowdsourced and facilitated surveys in which stakeholders may contribute this information and express these values. Because stakeholder participation is central to any successful MSP effort, SeaSketch has features that allow planners to track, visualize and quantify user activity.
+SeaSketch is being used in the Mozambique Channel MOZALINK project[ 	http://www.la-reunion.ird.fr/recherche-et-missions/programmes-de-recherche-termines/ecosystemes-biodiversite-et-securite-alimentaire/mozalink. ] that aims to develop data, knowledge and solutions to support transparent, sustainable and science-based Marine Spatial Planning (MSP) in the Western Indian Ocean. It is also being used to support the development of the Ocean Metiss project in Reunion.
+Recommended interventions
+Recommendation 16: Establish protocols and a national-level marine spatial data clearing mechanism to allow for the sharing of data between different institutions and organisations.
+Several options to improve data management have been identified in this scoping study. However, there is a need to undertake an assessment of the full range of systems available, and to agree on a single system that will support MSP across the URT. The use of an existing system is probably the most effective and efficient way forward. However, any existing system, and the institution that hosts it, will require technical assistance to develop its current system further and to collate and manage the large body of data that will ultimately be hosted in such a system. 
+Whilst a MSP initiative can create a forum for dialogue that could facilitate such a transition, there will still be a need for formal checks and balances to provide data holders with certainty that their data will be protected and only used for specific purposes. As such, to complement any future data clearing mechanism, formal data sharing arrangements (in the form of a standardised and legally agreed Data Sharing Agreement [DSA]) will be needed if partners such as NGO’s and research organisations are to agree to share data for the purposes of MSP.
+5.4.3Science and research input
+Key findings
+Existence of national and international marine science research capability: Both the Mainland and Zanzibar already have a relatively strong national marine science capability and a track record of undertaking marine scientific research and data collection, albeit focussed largely on coastal waters (Table 17).
+Table 17: Lead research agencies for the URT
+EXISTING MARINE RESEARCH INSTITUTIONS ACROSS THE URT
+Mainland Tanzania 	?Tanzania Fisheries Research Institute
+?Marine Parks and Reserves Unit
+?Institute of Marine Sciences (University of Dar Es Salam - UDSM)
+?School of Aquatic Sciences and Fisheries Technology (UDSM)
+?Deep Sea Fishing Authority
+Zanzibar	?Zanzibar Fisheries Research Institute
+?Marine Conservation Department 
+?Tropical Centre of Oceanography, Environment Science and Natural Resources (TROCEN) (State University of Zanzibar)
+
+In addition to the institutions highlighted above, a number of local NGOs have established a strong track record of independent marine environment research in Tanzanian waters. Notable examples include the Wildlife Conservation Society (WCS), IUCN, WWF, SeaSense, Blue Ventures and CORDIO. Many of these organisations have developed comprehensive time-series of research and data relating to areas such as: coastal fisheries management and livelihoods; marine biodiversity and conservation; coastal habitats and ecosystem services; and coastal livelihoods. This capacity needs to be fully recognised and integrated into any future MSP initiative.
+It is also noted, from the literature, that a number of university researchers have been involved in marine research studies. Whilst no attempt has been made to assess the academic science capacity across the URT, this does imply that there is at least some research capacity within the tertiary education sector in the URT.
+International marine scientific research
+Given the paucity of data that exists for the URT’s offshore waters, a key focus of any MSP initiative will be to identify possible sources of data to fill the current knowledge gaps. Numerous international research cruises are undertaken around the world each year. The purpose and application of the research varies on a case-by-case basis but in most cases the data acquired during the research cruises may be used for a number of different purposes. 
+Under international law, such researchers are obliged, upon request, to provide copies of their data to the host country. However, this is rarely proactively shared and, in most cases, requires a formal request from the host country. However, such a request can only be made if the host country is aware of data that may be available in respect of their waters. A very cursory search of databases with global data coverage indicates that a considerable amount of marine scientific research (MSR) activity has been undertaken in the Tanzanian EEZ and adjacent continental shelf (see Figure 23 below). Whether the Government of the URT is aware of the extent of this activity, and whether it has received copies of the data acquired is, at this stage, unknown.
+
+Figure 23: Example coverage of marine scientific expedition navigation tracks.[ 	Data acquired ranges from single beam and multi beam bathymetry to geophysical, seismic, gravity and magnetic data.] Source: https://www.ngdc.noaa.gov/mgg/mggd.html (2022).
+SOLSTICE: One recent initiative that is worth mentioning in the context of marine scientific research and data is the  Sustainable Oceans, Livelihoods, and food Security Through Increased Capacity in Ecosystem (SOLSTICE) programme that operated across much of the WIO (including the URT) between 2017 and 2021. The SOLTICE programme helped to build capacity across the various research institutions in the URT in such scientific disciplines as modelling, in situ monitoring and measurement and assessment so ecosystem interactions. 
+Among other findings, the SOLTICE programme demonstrates the value of using existing open-access data sets for modelling and assessment and the value of using modern and cost effective remote sensing technology to acquire new data (Anderson, 2021). The capacity developed and lessons learned through this programme should be integrated at an early stage into the MSP process, particularly with regard to data and science needs.
+WIO Symphony: The WIO Symphony project is a collaboration between the Nairobi Convention, its ten member States in East Africa (including the URT) and the Swedish Agency for Marine and Water Management.[ 	https://maritime-spatial-planning.ec.europa.eu/practices/symphony-tool-ecosystem-based-marine-spatial-planning] Through the collaboration, the partners will co-develop and implement a practical assessment tool for marine spatial planning in the Western Indian Ocean region. By incorporating information and knowledge from national, regional and international experts, the WIO Symphony tool enables estimations of how pressures from human activities in the ocean affect nature values in each location in the Western Indian Ocean. 
+The system is based on more than 80 maps of ecology and human activity and combines pressures, ecosystems and sensitivity into cumulative environmental impact. Users can apply the tool to support MSP by assessing environmental impact from human activities and by visualizing data, test scenarios, and compare different ways of using the ocean. 
+The results are presented as heat maps, which makes it easy to identify areas of high and low cumulative impact. They are also presented as tables and diagrams showing details for any given area. Uncertainties are highlighted too.
+Recommended interventions
+Recommendation 17: Undertake an audit of international MSR undertaken in the URT’s marine waters and determine how to capture data from researchers. 
+To this end, searches of databases with global data coverage, consultation with the agencies responsible for diplomatic clearances for marine scientific research as well as reviews of other academic sources will provide an understanding of data availability and provide an overview of how best to administer future scientific research expedition applications. This would provide an appreciation of what data may be available for further assessment of their marine environment, or in absence of any significant data coverage, inform the State as to the effort required to address the shortfall. Once this has been established, action can be taken to obtain copies of the relevant data from the researchers. 
+5.5Multi-Objective Planning Process
+No marine planning occurs in a vacuum. Management mechanisms already exists in some form, and a key to successful MSP is to build on what exists, improving the management and making it more efficient and effective. A key step, therefore, in preparing for MSP is to assess the current planning arrangements and to identify what gaps or areas of duplication exist that could be addressed to streamline and harmonize the current arrangements thereby delivering a more integrated approach. In particular, this should focus on the existing spatial planning mechanisms and spatial management tools.
+5.5.1Multi-use Stakeholder Engagement
+A key feature of any MSP initiative is that it must address and resolve areas of incompatibility and contestation. Decisions on access rights, allocation and use of resources are rarely unanimous and universally supported and require compromises to be negotiated between stakeholders. Trade-offs recognise individual priorities and complementing/conflicting outcomes and are an essential feature of arriving at an effective outcome for MSP that delivers an overall national vision for the future use of the ocean space and resources that all stakeholders can sign up to. 
+The support of stakeholders in the formulation and implementation of any MSP framework is therefore crucial to its success. Stakeholders should be involved from the outset and should be part of the process to define the vision and goals for MSP as well as to define the future use scenarios for which the plan will be designed. The broadest range of stakeholders must be included, from those responsible for managing resources in government, to those that rely on those resources to support their livelihoods at the community level (World Bank, 2022b).
+Key findings
+Need for wider stakeholder engagement: Both Mainland Tanzania and Zanzibar already have considerable experience of undertaking comprehensive stakeholder engagement and participatory processes in development initiatives. This further highlights the critical role that all key MSP related sectors and NGOs should play in the development of any national led MSP initiative and the need for integrating a broad range of different organisations into the planning process. Furthermore, there is a considerable body of experience with the numerous community engagement projects on the development and implementation of local-level marine management initiatives that are being supported by NGOs across the URT. As such, the experience gained by NGOs working with local communities will be particularly valuable when it comes to engaging with coastal communities.
+A broad range of stakeholders have already been identified and a number of stakeholder engagement and sensitisation activities have already been undertaken. Annex (B) provides a full list of the various stakeholders with whom the project team have engaged during this scoping exercise.
+Although a broad range of stakeholders have already been engaged during the initial phase of this study, it should be noted that, for the most part, this has focussed on government agencies, research providers, development partners and NGOs. When the time comes for a full scale planning process, there will be a need to engage much more broadly with coastal communities, industry groups and other users and beneficiaries of the URT’s marine space.
+Recommended interventions
+Recommendation 18: Develop and implement a comprehensive programme for stakeholder engagement to ensure that  coastal communities and other stakeholders can be proactively involved in the MSP process.  
+A great majority of economic activities in the URT’s maritime waters either support, or directly impact, the livelihoods and well-being of coastal communities. Enhancing those livelihoods is a primary objective of blue economy development. It is therefore imperative that coastal communities understand the potential benefits of undertaking MSP at the outset, and have a leading and active role in co-developing MSP plans throughout the process. 
+Similarly, the proactive involvement of other key stakeholders, not least private sector investors in the tourism, fisheries, aquaculture, transportation and energy sectors is also critical. An inclusive form of stakeholder engagement, whereby stakeholders are involved throughout the process with transparency and accountability between all parties, will be required. Partnerships between government, the private sector and civil society must be built in order to ensure co-responsibility for coastal management and to empower stakeholders to participate effectively.
+In order to guide the stakeholder engagement process for the duration of any future MSP initiative, there is a need to undertake a comprehensive mapping and analysis of all stakeholders and to develop a robust Communications Strategy that defines how the project will communicate and engage with the wide range of stakeholders that may have an interest in the project.
+Stakeholder identification and analysis for future MSP activities
+Different stakeholders will have different interests and will also exert different levels of influence on the process and at different times. At the outset of any MSP process it is therefore important to identify and characterise the broad range of stakeholders with whom the project should engage. Stakeholder analysis techniques will allow the MSP project team to identify and assess the importance of key people, groups of people, or institutions that may significantly influence the success of a project. This should include all those organizations (international, national and sub-national), sectors or groups of individuals which may either benefit from or have positive or negative impacts upon the project. The analysis should consider: 
+•The type of stakeholder and their specific interests in the project; 
+•The potential influence or impact each stakeholder may have on the project; and 
+•The extent and nature of the engagement required between the project and each stakeholder. 
+The use of formal stakeholder analysis tools will form an important part of the initial framing for a MSP project and will  provide the basis for identification of communication, engagement and capacity building activities. Typically this be achieved through an analysis of both the degree of interest and degree of influence individual stakeholders will have on the outcome of the MSP process (Figure 24 below).
+Depending on the category, this model suggests different ways how to deal with these stakeholders. Stakeholders with high power and low interest shall be kept satisfied. Those with low interest and low power shall be only monitored with minimum effort. A stakeholder with low power and high interest in a project shall be keep informed and finally the high power, high interest stakeholders shall be closely monitored and informed.
+
+Figure 24 : Stakeholder Influence/Interest Matrix
+5.5.2Existing spatial planning processes and tools
+Key findings
+Existence of area based management tools: Although no formal MSP framework exists in the URT, spatial planning, in general, is a well-established tool, operating at different jurisdictional levels and geographic scales. Under the relevant town planning legislation, planning authorities are vested with the power to prepare a general planning scheme, to control the use and development of land in the interests of proper and orderly development, as well as to formulate bylaws to regulate zoning in respect of use and density of development (Huang et al. 2018).
+Currently, for the Mainland, the National Land-use Framework (2013–33) is proposed to be the overarching guiding document for spatial and land-use planning. The National Land-Use Framework Plan (NLUFP) was developed and updated by the National Land-Use Planning Commission to provide guidance for the determination of land uses of national concern—particularly protected areas, wetlands, and areas for agriculture, grazing, urban and rural settlements, and infrastructure. It seeks to depart from the historical ad hoc planning practice to a more systematic and comprehensive approach by translating national priorities and development goals into spatial terms and minimizing existing and potential conflicts that arise from sectoral land uses and activities. In this way, the NLUFP is intended to serve as a guide for land-use planning and to create compatibility between land uses and land ownership—at zonal, special areas, regional, district, and village levels.
+In Zanzibar, the National Spatial Development Strategy (NSDS) sets out the national spatial development policies and strategies in respect of the general direction and broad pattern of the land use, land development and protection of cultural and natural resources in Zanzibar by the year 2035. In this context, NSDS facilitates the government in strategizing to ensure that Zanzibar achieves sustainable spatial development. Moreover, the “ZanPlan” which is the outcome of the Technical Assistance for the Preparation of a Diagrammatic Indicative Structure Plan for Zanzibar Municipality and Its Immediate Periphery and Urban Development Policy for Zanzibar Town guides in the preparation of a future spatial plan for Zanzibar Municipality and its immediate periphery.
+As outlined above, a broad range of spatial management tools are available, for controlling the different marine uses and activities, under different legal instruments and that could be included in a MSP initiative (Annex E). However, to date, only a limited number of such measures have been applied across the URT. The most relevant of these are discussed in section 4.4 above in the context of the specific legal instruments under which they may be designated. For some activities, (e.g. shipping and submarine cables and pipelines) opportunities to establish spatial management tools do not appear to have been fully utilised and there is a need to amend a number of the existing legal instruments to establish a clearer legal basis for the application of sector-specific spatial management tools.  
+Marine Protected Areas
+One of the most widely used developed tools is MPAs, which have been designated for both Mainland Tanzania (Marine Parks and Marine Reserves) and Zanzibar (Marine Conservation Areas). These have been discussed under section 4.4.1 above and will be only briefly addressed here.
+In the case of Mainland Tanzania, a total of 18 true MPAs have been designated (3x Marine Parks and 15 x Marine Reserves). General Management Plans have been prepared for each of the Marine Parks.
+Zanzibar has designated five marine conservation areas (MCAs) covering almost all nearshore waters around Unguja and Pemba, the main gap being the east coast of Pemba. Updated general management plans with maps and framework zoning guidance were finalised for all five MCAs in 2022. 
+Although approximately 15% of the combined area of internal waters and territorial sea is protected, this is still below the global target of 30% indicated in the Global Biodiversity Framework and the URT Fisheries Master Plan 2021/22 – 2036/37. 
+Beach Management Units and Collaborative Fishery Management Areas on the Mainland
+During the early 2000s, the challenges of centralized fisheries management systems led to efforts to reform management and introduce the concept of fisheries ‘co-management’, whereby the government and the fisheries communities share authorities and responsibilities in the management.  To this end, the concept of beach management units (BMUs) was initially introduced in Mafia, Rufiji, and Kilwa districts, followed by their formal introduction through the Fisheries Act (2003).
+The Act provides for every fishing community, in collaboration with relevant village government, to form BMUs to provide for collaborative fisheries management for the purposes of managing, protecting and conserving fishery resources, biodiversity and the environment. A BMU may be defined in respect of  specific area/body of water, and have now been established in all coastal districts. BMUs have clear, legally empowered roles and responsibilities, which are set out in National BMU Guidelines and are supported by the Fisheries Act. The jurisdictional area on land of every BMU shall be as agreed upon by fishers community, community based organisations, village councils, local government authority and central Government.
+BMUs have a number of roles including:
+•Propose bye-laws for endorsement by the LGAs and enforce them; 
+•Prepare Management Plans and By-laws to supplement the implementation of Fisheries Act and Regulations;
+•Undertake monitoring, control and surveillance in collaboration with the relevant authorities to reduce harmful and illegal fishing practices;
+•Assist in the collection of fisheries data on catch, effort and socio-economic;
+•Ensure that the beach, together with any structures or buildings situated thereon, is kept in a safe, clean and hygienic condition; and
+•Identify wider development interventions or plans and make financial proposals for their support by the BMU.
+Each BMU is required to define a Collaborative Fisheries Management Area (CFMA) and to develop a plan for that area. Members of a BMU may fish in the CFMA of another BMU, but they must comply with the controls imposed by that BMU. The idea being to give local communities rights and control over their traditional fishing grounds through each BMU. As such, CFMAs are jointly managed by neighbouring BMUs who share fishing grounds.  Thus, whilst BMUs themselves are not strictly spatial management tools, they give rise to spatially defined management areas (i.e. CFMAs) under which each BMU can establish a range of spatial, temporal, equipment and species-specific restrictions, which are enforceable through the adoption of appropriate by-laws for the specific CFMA.
+To this end, CFMAs have been established along much of the Mainland Tanzania coast, comprising clusters of (usually three to seven) neighbouring BMUs, which share common fishing grounds. Establishment and management of CFMAs is currently governed by the National guidelines for participatory management of fisheries and environmental resources, 2017. 
+CFMAs are conceived as a spatial tool for the co-management of fisheries resources and, as such, CFMA management is jointly undertaken by LGAs and BMUs (on behalf of village councils and assemblies).  It is important to note however that there are currently no provisions specifically referencing the existence, legal status, establishment or management of CFMAs in any existing primary or secondary fisheries legislation. 
+Notwithstanding the above, CFMAs have been adopted and operationalised by both the Ministry of Livestock & Fisheries (MLF) and the President’s Office - Regional Administration and Local Government (PO-RALG) and, over the past 10-15 years, have become an important tool for nearshore fisheries co-management along the Mainland Tanzania coast. To date, 29 CFMAs have been proposed or established and approved by Director of Fisheries along the Tanzania Mainland coast, covering 13 of 18 coastal district councils and municipalities. 15 of the 29 CFMAs proposed to date have management agreements approved by their respective district councils and the Director of Fisheries. The main gaps are in Mkuranga and southern Kilwa Districts, where there are initiatives under way or in the pipeline to establish CFMAs, and in Kinondoni, Ilala, Lindi and Mtwara Municipalities which have relatively small nearshore areas.
+Recommended interventions
+Recommendation 19:  Adopt a more systematic approach to marine conservation planning that inter alia, considers how other biodiversity objectives can be served using existing spatial designations (i.e. MPAs, CFMAs) and linking these to other spatial management mechanisms.
+Despite the apparent success of the URT’s existing networks of spatial management measure in maintaining a significant proportion of “living” habitats, which are associated with higher biodiversity that underpins the small-scale fisheries, there is a need to ensure that the established MPA’s are representative, anticipatory to climate change and to the current and future uses, and that are effective in enhancing fish biomass recovery. There is a need to adopt a more systematic approach to marine conservation planning in the URT that fully utilises and integrates the broad range of spatial management measures currently available.
+The URT’s existing network of spatial management measures comprise entirely inshore measures. If the URT is to develop the offshore fishing sector, a commensurately greater focus needs to be placed on the conservation management needs of those offshore waters. This would ensure that any future fisheries development takes account of any potential conflicts with biodiversity values in the offshore waters. As such, there is a need to undertake an assessment of offshore conservation values and, if appropriate, to utilise existing legal mechanisms to legally designate offshore conservation areas.
+Recommendation 20: Seek to designate 30% of the URT’s marine space for protection from the most harmful human activities by 2030.
+Through the Fisheries Sector Masterplan (2021/22-2036/37), the government has indicated that there is a need to devote at least 30% of the URT’s marine space for conservation.  A commitment to conserve biodiversity is one of 21 key targets highlighted in the Global Biodiversity Framework for 2030. In order to support this commitment, it is recommended that the MSP is used as a tool to undertake comprehensive assessment in support of this commitment, especially in the EEZ.
+Recommendation 21: Update Key Sectoral Legislations to integrate MSP principles. 
+It is recommended that clear provisions are included in all key sectoral legislations (e.g. Environment, Fisheries, Aquaculture, Maritime Transport, Energy, Oil and Gas, etc.) to provide for the establishment and governance of designated MSP planning areas. As part of any future MSP framework, the relevant agencies should assess whether any dedicated spatial management tools are desirable or necessary to improve their sectoral requirements and help reduce possible user conflicts with other marine users. 
+Recommendation 22: Establish a clear legal basis for the protection of subsea pipelines and cables.
+As the offshore industry develops further and new infrastructure is installed on the seabed, it will be critical to ensure that adequate legal protection mechanisms are available for the infrastructure. Legislative amendments should therefore be tabled to introduce the ability to designate protective measures for subsea infrastructure. Similarly, other critical infrastructure, in the form of subsea cables, also requires adequate protection from other marine uses.
+Given that these measures could apply to both petroleum and non-petroleum infrastructure, the most relevant legislation is considered to be Territorial Sea and Exclusive Economic Zone Act. In the specific context of Zanzibar, a determination will need to be made as to which is the most appropriate legal instruments to be amended accordingly.
+5.5.3Marine zoning activities
+Once a desired future spatial scenario has been identified, then specific spatial management measures will have to be identified that can lead to that future vision. This is often undertaken in the context of different management ‘zones’ within the overall planning area. An ocean zone may be defined as an area of ocean within which specific human uses are allowed or prohibited. Ocean zoning is one of the key tools with which MSP seeks to manage and where appropriate separate human activities.
+For zoning to work well, there needs to be a number of different ocean zones (but not too many), with each having its own clearly defined objectives and rules governing which human activities are allowed and not allowed. Types of ocean zones can include MPAs, aquaculture zones, various types of fishing (subsistence, industrial), oil and gas, shipping and tourism. The process of MSP should  result in ocean zones that are legally enforceable. 
+Key findings
+Need to use the experience gained in planning and zoning in MSP process: Whilst there have been no national level MSP activities in the URT, the use of multi-use planning and zoning is an established tool for the management of MPAs, both in Zanzibar and the Mainland. In this regard, a number of MSP/Zoning projects have been undertaken in specific areas and numerous spatial management measures have been established under the relevant MPA legislation. Most experience has been gained with the development of management plans for Marine Parks and Marine Conservation Areas, since these all include some element of zoning (Figure 25).
+For each of the General Management Plans (GMP) that have been developed for Mainland Tanzania’s MCAs, the system of zoning uses a common approach whereby four zones are proposed in descending order of the level of protection provided.
+1)Core Zones – areas of high conservation value that are strict no-take zones;
+2)Specified Use Zone – areas of high conservation value but that are also of high importance for local resources users. As such these zones allow certain uses to be carried out by local residents but no other citizens.
+3)General Use Zone – provide local residents with opportunities for sustainable resource use and development. Generally all activities are allowed for local residents and other citizens are allowed to use the area subject to the right permits.
+1Buffer Zone – an area outside and adjacent to the park boundary that safeguards against encroachment of environmental threats from outside the park.
+
+Figure 25: Example of marine zoning scheme for the Mafia Island Marine Park. Source: Marine Parks and Reserves Unit (2011).
+
+Notwithstanding the system of zoning outlined above, some activities are entirely prohibited from being undertaken with the boundaries of a marine park. 
+For each of the GMPs that have been developed for Zanzibar’s MCAs, the system of zoning uses a common approach whereby two zones are proposed:
+1)A strict No-Take Zone designed to protect and conserve biologically significant habitats in their pristine conditions; and
+2)Multi-use Zones designed to allow activities that are not prohibited under the GMP to be allowed subject to conditions.
+Recommended interventions
+Recommendation 23: Prepare an MSP zoning framework to guide appropriate tools for management controls.
+The resulting spatial management plan that is the logical conclusion of the MSP process will be defined by (a) the activities the government wishes to include in the MSP framework; and (b) the zoning framework designed to address those activities. This will necessarily involve consultation with those stakeholders who may be affected by the zoning framework. Through a process of consultation and iteration, a system of zoning should be developed that will form the basis of the final MSP framework. Such a system of zoning should be based on two different types of design principles, namely:
+1. Socio-economic, cultural and management feasibility design principles; and
+2. Biophysical design principles.
+The final categories of zones will reflect these design principles and the input of different stakeholders into the process. 
